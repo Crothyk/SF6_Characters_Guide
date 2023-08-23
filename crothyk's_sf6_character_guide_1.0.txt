@@ -1,0 +1,1896 @@
+Crothyk's SF6 Basic All Characters Guide (personal notes getting each character to diamond)
+Any Questions/Suggestions? Look for me on https://twitch.tv/crothyk or https://discord.gg/cP7Gksaynu.
+
+
+Changelog:
+
+1.0: Initial Release.
+
+
+
+Table Of Contents:
+
+I. A.K.I 
+II. Akuma 
+III. Blanka 
+IV. Cammy 
+V. Chun-Li 
+VI. Deejay 
+VII. Dhalsim 
+VIII. Ed 
+IX. E.Honda 
+X. Guile 
+XI. Jamie 
+XII. JP 
+XIII. Juri 
+XIV. Ken 
+XV. Kimberly 
+XVI. Lily 
+XVII. Luke 
+XVIII. Manon 
+XIX. Marisa 
+XX. Rashid
+XXI. Ryu 
+XXII. Zangief 
+
+
+
+==========================================================================================================================================
+
+I. A.K.I (Placeholder until she releases)
+
+==========================================================================================================================================
+
+II. Akuma (Placeholder until he releases)
+
+==========================================================================================================================================
+
+III. Blanka
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: see misc for s.hk ch options, normal+ex up ball, b.mk, lvl 1/3, 7j.mp xx air ball, air throw.
+		
+		2. Cross Ups: j.mk.
+		
+		3. Air-To-Airs: j.lp (fastest), 7j.mp xx air ball, air throw.
+		
+		4. Best Neutral Attacks: s.lp/hp/lk/mk, cr.lp/mp/mk, b.mk.
+		
+		5. Risky But Effective Neutral Attacks: s.mp, cr.hp, f.hp.
+		
+		6. Frame Traps
+			a. ex rainbow ball (+6) > b.mk (+10) > s.hp xx ender.
+			b. ex electric (+4) > s.hk (+8) > cr.mk xx ender.
+			c. b.mk (+2) > s.lk (+7) > s.lp xx mp ball.
+			
+	B. Combos (Enders: Electric + LK Upball + Slide for oki, HK Upball + MP Ball for damage, HP Ball for doll setup.)
+
+		1. Lights
+			a. 0G/2G Oki: cr.lk > cr.lp xx electric/ex electric (1110/1270).
+			b. 0G Damage: cr.lk > cr.lp > cr.lp xx mp ball (1550).			
+			c. 3G: s.lk > s.lp drc s.lk > s.hk > s.lp xx mp ball (1903).
+			d. ALL: cr.lk > cr.lp drc s.lk > b.mk drc s.hk > s.hp xx coward punch > mp ball xx lvl 3 (4276).
+
+		2. Mediums
+			a. 0G Oki: b.mk > cr.mk xx electric (1740).
+			b. 0G Damage: b.mk > cr.mk xx mp ball (2060).
+			c. 2G: b.mk > cr.mk xx ex ball > hk up ball (2720).
+			d. 3G: cr.mk drc s.hk > s.hp xx coward punch > ender in misc section. 
+			e. ALL: b.mk > cr.mk drc s.hk > s.hp drc s.hk > s.hp xx coward punch > mp ball xx lvl 3 (5364). 
+		
+		3. Heavys
+			a. 0G: s.hp xx coward punch > ender in misc section.			
+			b. ALL: s.hp drc s.hk > s.hp drc s.hk > s.hp xx coward punch > mp ball xx lvl 3 (5564).
+
+		4. Corner			
+			a. 4G: s.hp xx ex ball > hk upball > ex upball (3840).
+
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.mk > b.mk > cr.mk xx mp ball (2050).
+			b. 1G Overhead: dr f.mp > s.hk > s.lp xx mp ball (2480). 		
+
+		6. Punish Counter
+			a. 0G DP Whiff: s.hk > s.hp xx coward punch > ender.
+			b. LVL2+1 Neutral Whiff: hp blanka ball > lvl 2 > lvl 1 (3320).
+		
+		7. Drive Impact		
+			a. 0G Midscreen: any heavy starter.
+            
+			b. 0G Wall Splat: s.hp xx coward punch > hk ball (2700).
+            c. 4G Wall Splat: s.hp xx ex ball > hk upball > ex upball (3640).
+            d. 2G+1D Wall Splat: ex electric (doll activates) > hk upball > lvl 3 after doll explodes (5240).
+            
+			e. ALL Stun: throw doll > j.hk > s.hp drc s.hk > s.hp drc s.hk > s.hp xx coward punch > mp ball xx lvl 3 (5414).
+			f. Stun Reset: switch the 2nd s.hp into b.mk, di cancel from that. follow up with wall splat route d (7900).
+		
+	C. Oki
+	
+		1. S.HP xx Coward Punch > Slide (df.hp)
+			a. 1G Midscreen: fwd hop > s.hk > s.hp xx ender. 
+            b. 0G Corner: cr.mk (whiff) > s.hk > s.hp xx ender.
+		
+		2. Any Electric			
+			a. 1G Midscreen: dash > dr s.hk > s.hp xx ender.
+            b. 0G Corner: dash > f.mp > s.lp xx ender.
+            
+        3. Forward Throw
+            a. 1G Midscreen: dash > s.hp xx coward punch (confirm if hit and follow through) > ender.
+            b. 0G Corner: throw loops? yes, but heavily manually timed. throw > dash & wait a sec > throw.
+
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: fwd hop > s.hp xx coward punch > ender.
+		
+		2. Enders for S.HP xx Coward Punch
+			a. 0G: df.hp (2200).
+			b. 0G: mk upball (2440).	
+			c. 0G+LVL1: Lvl 1 (3000).
+			d. 0G+LVL3: mp ball xx lvl 3 (4760).
+		
+		3. Counter Hit Anti-Air S.HK Options
+			a. 0G/LVL3: s.hk > coward punch > mk upball/lvl 3 (2600/4760).
+			b. 2G+LVL1/3: s.hk > dash > ex rainbowball > slide/lvl 1/lvl 3 (2760/3560/5160).
+			c. 1G: s.hk > dr s.hp xx coward punch > ender.
+            
+        4. Blanka Chan Corner Setup: too lazy to type it out atm, just watch this vid: https://www.youtube.com/watch?v=gBATejXagzA
+
+==========================================================================================================================================
+
+IV. Cammy
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: b.mp, lk dp (best angle), lvl 1/3, air throw, j.mp xx dive kick or j.mp xx lvl 2 > fc hk arrow > hk/ex dp.
+		
+		2. Cross Ups: j.lk.
+		
+		3. Air-To-Airs: j.lp/lk (fastest), air throw, j.mp xx divekick or j.mp xx lvl 2 > fc hk arrow > hk/ex dp.
+		
+		4. Best Neutral Attacks: s.lp/hp/lk, cr.lp/mp/mk, b.mp/hk, f.hk
+		
+		5. Risky But Effective Neutral Attacks: s.mk/hk.
+		
+		6. Frame Traps
+			a. hp spin knuckle (+3) > s.mp (ch) > s.hp xx ender. (can't get charged dp from this)
+			b. any hooligan slide (+2) or cr.hp (+1) > cr.lp (ch) > cr.mp xx ender.
+			
+	B. Combos (Enders: Spiral Arrow for corner carry, DP for damage, Spin Knuckle for standing oki, Charged/Ex Arrow/DP for sideswitch)
+
+		1. Lights
+			a. 0G Corner Carry: cr.lk > cr.lp > cr.lp xx mk arrow (1340).
+			b. 0G Damage: cr.lk > cr.lp xx hk dp (1430). (do not do a 3rd cr.lp here, hk dp does less damage on later active frames)
+			c. 0G Damage + Oki: s.lp > b.mp~hk > j.mp xx hk divekick (2010).
+			d. 2G Sideswitch: cr.lk > cr.lp > cr.lp xx ex arrow > hk dp (1930).
+			e. 3G: cr.lk > cr.lp > cr.lp drc s.lp > s.hp xx hk dp/fc hk dp (1799/1925).
+			f. ALL: cr.lk > cr.lp > s.lp drc s.lp > s.hp drc cr.hp > s.hp xx fc hk dp xx lvl 3 (4136).
+
+		2. Mediums
+			a. 0G Corner Carry: cr.mp/s.mp > s.lk xx mk arrow (1620).
+			b. 0G Damage: s.mp > b.mp~hk > j.mp xx hk divekick (2360).
+			c. 2G: b.mp~hk > j.mp xx ex divekick > hk dp (2460).
+			d. 3G: cr.mp/cr.mk drc s.hp > b.mp~hk > j.mp xx hk divekick (2532). 
+			e. 3G Sideswitch: cr.mp/cr.mk drc cr.hp > s.hp xx fc hk dp (2624).
+			f. 4G: b.mp~hk > j.mp xx ex divekick > ex dp (2810).
+			g. 3G+LVL1: cr.mp drc cr.hp > s.hp xx lvl 1 (2919).
+			h. 0G+LVL2: b.mp~hk > j.mp xx lvl 2 > fc hk arrow > hk dp (3538).			
+			i. ALL: cr.mp drc cr.hp > s.hp drc cr.hp > s.hp xx fc hk dp xx lvl 3 (5022).
+		
+		3. Heavys
+			a. 0G: cr.hp > cr.mp xx hk spiral arrow (2100).			
+			b. 2G+LVL1: s.hp~hk xx ex divekick > lvl 1. (2620).
+			c. 3G: cr.hp > cr.mp drc b.hk > hk arrow > hk dp (3046).
+			d. 5G+LVL3: cr.hp > cr.mp drc b.hk > dr s.hp xx mp spin knuckle > dr s.hp xx fc hk dp xx lvl 3 (5434).			
+
+		4. Corner
+			a. 0G: b.hk > mk arrow > hk dp (2360).
+			b. 1G: dr b.hk > b.hk > mk arrow > hk dp (2790).
+
+		5. Raw Drive Rush
+			a. 1G Corner Carry: dr s.hp xx hp spin knuckle > s.lp > s.lk xx mk arrow (2440). 
+			b. 1G Low: dr cr.mk > s.lk xx mk arrow (1370).
+			c. 1G Low: dr cr.lk > b.mp~hk > j.mp xx hk divekick (1910).			
+					
+		6. Punish Counter
+			a. 0G Corner Carry DP Whiff: s.hp xx hp spin knuckle > s.lp xx mk arrow (2510).
+			b. 0G Damage DP Whiff: cr.hp > s.hp xx hk dp/fc hk dp (2600/2840).			
+			c. 0G Neutral Whiff: cr.mk/s.hp drc ender.
+		
+		7. Drive Impact		
+			a. 0G Corner Carry Midscreen: cr.hp > cr.mp xx hk spiral arrow (2540).
+			b. 0G Damage Midscreen: microwalk > s.mp > b.mp~hk > j.mp xx hk divekick (2690).	
+			c. 0G Sideswitch Midscreen: (slight delay) s.hp xx fc hk arrow > hk dp (2640).
+			d. 2G Midscreen: (slight delay) s.hp xx fc hk arrow > ex dp (3060).			
+			e. 3G Midscreen: nj.hk > dr s.hp xx fc hk arrow > ex dp (3108).
+			
+			f. 0G Wall Splat: s.hp xx lk arrow > hk dp (2720). (if higher up on wall, wait till character falls a bit)
+			g. 2G Wall Splat: s.hp xx fc hk arrow > ex dp (2900). 
+			h. 0G+LVL1/3+Sideswitch Wall Splat: s.hp xx fc hk arrow > lvl 1/3 (3200/4400). 
+			i. 2G+LVL3 Wall Splat: dr s.hp xx mp spin knuckle > dr s.hp xx fc hk arrow xx lvl 3 (4686).
+			
+			j. 5G+LVL3 Stun: j.hp > cr.hp > cr.mp drc b.hk > dr s.hp xx mp spin knuckle > dr s.hp xx fc hk dp xx lvl 3 (5322).			
+			k. Stun Reset: j.hp > cr.hp > cr.mp drc cr.hp > s.hp xx di > follow up with wall splat route i (7542). 
+		
+	C. Oki
+	
+		1. Any Spiral Arrow	or j.mp > divekick	
+			a. 0G Midscreen: dash > cr.hp > s.hp xx ender.			
+		
+		2. HK DP			
+			a. 0G Corner: dash > cr.mp > cr.mp xx ender.
+		
+		3. Forward Throw
+			a. 1G Midscreen: dr s.hp > s.hp/b.mp~hk > ender.
+			b. 0G Corner: throw loops? yes, but not auto-timed. throw > walk forward > throw.
+		
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch
+			a. 0G Close: b.mp~hk xx hp hooligan > slight delay kick (2140).
+			b. 0G Far: slight delay s.hp xx fc hk spiral arrow > hk dp (2640).
+			c. 0G+LVL1/3: slight delay s.hp xx fc hk spiral arrow > lvl 1/3 (3360/4560).
+		
+		2. Hooligan Combo Options
+			a. Slide: hk dp, cancelled into lvl 3
+			b. EX Slide: hk dp, cancelled into lvl 3, cancelled into lvl 2 > fc hk spiral arrow > hk/ex dp.
+			c. Normal/EX Wheel Kick: +8, so s.hp xx ender.			
+			d. EX Throw: lvl 3, dr s.hp xx fc hk dp, dr s.hp xx fc hk arrow > lvl 1/3.					
+		
+		3. Other
+			a. 2G Sideswitch: b.mp~hk > late j.hp as you're landing > ex spin knuckle > s.hp xx ender.
+			b. 2G Sideswitch Corner: just get them in the corner and do ex spin knuckle on their wake-up.
+
+==========================================================================================================================================
+
+V. Chun-Li
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: s.mk (fast), any tensho, s.hk ss cr.mk xx tensho/any super, lvl 1/3.
+		
+		2. Cross Ups: j.mk, j.2mk.
+		
+		3. Air-To-Airs: j.lk (fastest), air throw, j.hpx2, j.mp (1 hit leads to juggle state, can cancel 2 hits into lvl 1).
+		
+		4. Best Neutral Attacks: s.lp/mp/lk/mk, ss lk/mk, b/f.mp, b.hp, ex kikoken.
+		
+		5. Risky But Effective Neutral Attacks: everything else.	
+		
+		6. Frame Traps 
+			a. s.mp (+1) > cr.lp/s.lp (ch) > cr.mk/f.mp xx ender. 
+			b. df.hk (+3) > s.mp (ch) > b.hp xx ender.
+			
+	B. Combos/BnBs (Enders: SBK for corner carry + oki, Legs for standing oki, Tensho for damage + oki)
+		**Note: Air Combo Sequence is j.2mk long delay j.2mk j.hp x2**
+				
+		1. Lights
+			a. 0G/2G Standing Oki: cr.lk > cr.lp xx lk/ex legs (1110/1600). after lk legs, follow up with throw/s.mp > b.hp > ender.
+			b. 0G Oki: cr.lk > cr.lp xx lk sbk (1269).
+			c. 3G: cr.lk > cr.lp > s.lp drc s.lp > b.hp ss lk xx mk sbk (1913).
+			d. 3G+LVL3: cr.lk > cr.lp > s.lp drc s.lp > b.hp ss hk > air combo sequence > lvl 3 (3891).
+			e. ALL: cr.lk > cr.lp > s.lp drc s.lp > b.hp drc s.hp > s.mp > cr.mp xx mk legs xx lvl 3 (4099).
+		
+		2. Mediums
+			a. 0G: s.mp > cr.mp xx mk sbk (2160).
+			b. 2G: s.mp > cr.mp xx ex sbk > hk tensho (2680).
+			c. 3G: s.mp > cr.mp xx ex sbk > dr cr.lp ss mk xx hk tensho (2929).
+			d. 3G+LVL1/3: s.mp > cr.mp xx ex sbk > dr s.lp/cr.lp xx hk legs > lvl 1/3 (3241/4527).
+			e. ALL: s.mp > cr.mp drc s.mp > b.hp drc s.hp > s.mp > cr.mp xx mk legs xx lvl 3 (5112).
+		
+		3. Heavys
+			a. 0G: b.hp ss lk xx mk sbk (2260).
+			b. 0G: s.hk ss mk xx mk sbk (2660). (whiffs crouching)
+			c. 2G+LVL2: s.hk ss mk xx ex legs xx lvl 2 > late j.mp > early j.2mk~j.2mk xx air hk legs (4030).
+			d. 3G: s.hk ss mk xx ex sbk > dr cr.lp ss mk xx hk tensho (3429).
+			e. 3G+LVL3: s.hk ss mk drc b.hp ss hk > air combo sequence > lvl 3 (5231). (can sub in b.hp ss lk at the start)
+		
+		4. Corner (for routes b-d below, you can do pc or dr b.hp if you can't do s.hk)
+			a. 0G/2G/LVL1/LVL3: b.hp xx hk legs > hk/ex tensho (2760/2920) or lvl 1/3 (3160/5000).
+			b. 2G: s.hk ss mk xx ex kikoken > s.mp > cr.mp xx mk sbk (3720). 
+			c. 5G+LVL3: s.hk ss mk xx ex kikoken > s.mp > cr.mp drc b.hp ss hk > air combo sequence > lvl 3 (5900).
+			d. ALL: s.hk ss mk xx ex kikoken > s.mp > cr.mp drc cr.hp ss mk drc b.hp ss hk > air combo sequence > lvl 3 (6217).
+		
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.mk ss cr.lk xx mk sbk (1740).
+			b. 4G Low: dr cr.mk ss cr.lk drc s.mp/b.hp > ender.
+			c. 3G+LVL3 Overhead: dr df.hp > s.mp drc s.mp > b.hp xx lk hazanshu x lvl 3 (4790).				
+			
+		6. Punish Counter			
+			a. 0G DP Whiff: s.hk ss mk > drc/ender/etc.
+			b. 4G+LVL3 DP Whiff: dr > b.hp xx hk hazanshu > cr.mp drc b.hp > cr.mp xx ex sbk > lk legs > lvl 3 (6026).
+			c. 0G Neutral Whiff: b/f.mp / cr.mk / s.hp drc etc.			
+		
+		7. Drive Impact
+			a. 0G Midscreen: any heavy starter.
+			
+			b. 0G/2G/LVL1/LVL3 Wall Splat: b.hp xx hk legs > hk/ex tensho (2860/2980) or lvl 1/3 (3160/4540).
+			c. 0G+LVL1/3 Wall Splat: f.hk ss hk > air combo sequence > lvl 1/3 (3120/4610).
+
+			d. ALL Stun: late j.hk > s.hk ss mk xx ex kikoken > s.mp > cr.mp drc cr.hp ss mk drc b.hp ss hk > air combo > lvl 3 (5834).
+			e. Stun Reset: di cancel from cr.hp ss mk into wall splat. follow up with wall splat route c (8196).
+			f. Ultimate Stun Overhead Reset: instead of doing b.hp ss hk, do b.hp xx hp xx lvl 3 (8598).
+		
+	C. Oki
+	
+		1. LK SBK 
+			a. 0G Midscreen: dash > s.hp > s.mp > cr.mp xx ender.
+			b. 1G Midscreen: dr df.hp > b.hp ss lk xx ender.
+			c. 2G Corner: b.hp (whiff) > b.hp ss mk xx ex kikoken > s.mp > cr.mk xx ender.
+		
+		2. MK SBK
+			a. 1G Midscreen: dr df.hp > b.hp ss lk xx ender.	
+			b. 2G Corner: b.hp (whiff) > b.hp ss mk xx ex kikoken > s.mp > cr.mk xx ender.
+
+		3. Tensho Kicks
+			a. 1G Midscreen: dr b.hp ss mk xx ender.
+			b. 2G Corner: b.hp (whiff) > b.hp ss mk xx ex kikoken > s.mp > cr.mk xx ender.
+		
+		4. Forward Throw
+			a. 0G Midscreen: couldn't find anything
+			b. 0G Corner: throw loops? nope, but you can do... s.hp > cr.lp > ender.
+
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch
+			a. 1G/3G - df.hk > dr s.lp/cr.lp xx hk legs > hk/ex tensho (2791/2872).
+			b. 0G+LVL1/LVL3 - df.hk > lvl 1/3 (2790/4400).
+			c. 1G+LVL1 - df.hk > dr s.lp/cr.lp xx hk legs > lvl 1 (3001).
+			d. 0G+LVL2 - dh.hk > lvl 2 > air combo sequence (3250).
+		
+		2. Fun Desk Combo: f.hk pc > dr b.hp xx hk legs > dr s.lp drc s.lp xx hk legs > dr s.lp xx lvl 2 > air hk legs/lvl 1 (4016/4488).
+		
+		3. Another Fun Desk Combo: di pc > j.hk (latest possible hit) > dr b.hp ss mk drc cr.hp ss mk drc b.hp ss mk xx lvl 3 (5466).
+		
+==========================================================================================================================================
+
+VI. Deejay
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: b.hk, cr.hk, any dp, ex sway~hk combo, lvl 2/3.
+		
+		2. Cross Ups: j.mk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.mp~hp target combo, j.mp (can juggle but hard to set up).
+		
+		4. Best Neutral Attacks: s.lp/hp/lk, cr.lp/mp, b.hk, ex slasher, ex sway.
+		
+		5. Risky But Effective Neutral Attacks: s.mp, cr.hp/lk, slasher, sway.
+		
+		6. Frame Traps
+			a. s.mp/ex slasher (+2) > cr.lp (ch) > cr.mp xx ender.
+			b. f.mk/sway mk (+1) > s.lp (ch) > cr.mp xx ender.
+			
+	B. Combos (Enders: DP for corner carry, MGU for damage, HK Sobat for standing oki, EX Sway for combo extensions)
+
+		1. Lights
+			a. 0G: cr.lk > s.lp > cr.lp xx mk sobat (1410).
+			b. 3G: cr.lk > s.lp > cr.lp drc s.lp > cr.hp > cr.mp xx lp mgu (2108).
+			c. 5G+LVL2: cr.lk > s.lp > cr.lp drc s.lp > cr.hp > cr.mp xx ex sway~hk > lvl 2 (3167).
+			d. ALL: cr.lk > s.lp > cr.lp drc s.lp > cr.hp > cr.mp drc s.hp > b.hk xx mk sobat xx lvl 3 (4189).
+
+		2. Mediums
+			a. 0G: s.mp/s.mk > s.lk xx mk/hk sobat (1700/2020).
+			b. 2G: f.mk > s.lp xx ex sway~hk > hk sobat (2940).
+			c. 2G: s.mk > cr.mp xx ex sway~hk > hk sobat (3140).
+			d. 0G+LVL1/2/3: s.mp~hp~hk xx lvl 1/2/3 (2840/3680/4380).
+			e. 3G+LVL2: s.mk > cr.mp xx ex sway~hk > dr b.hk (2nd hit only) xx sway hk > lvl 2 (4175).
+			f. ALL: s.mk > cr.mp drc s.hp > b.hk xx ex sway~hk > dr s.hp xx hp mgu x lvl 3 (5406).
+		
+		3. Heavys
+			a. 0G: cr.hp > cr.mp xx hk dp (2440).
+			b. 2G: cr.hp > cr.mp xx ex sway~hk > hk sobat (3340).
+			c. 3G: cr.hp > cr.mp drc cr.hp > s.hp xx mp mgu (3383).
+			d. 3G: cr.hp > cr.mp xx ex sway~hk > dr b.hk(1) xx sway~hk > hk sobat (3651). 
+			e. 5G+LVL2: cr.hp > cr.mp drc s.hp xx ex mgu xx lvl 2 (4294).
+			f. ALL: cr.hp > cr.mp drc s.hp > b.hk xx ex sway~hk > dr s.hp xx hp mgu x lvl 3 (5606).
+
+		4. Corner
+			a. 0G: cr.hp > cr.mp xx mk dp > hk dp (3050).
+			b. 4G: cr.hp > cr.mp xx ex sway~hk > ex fireball > sway~hk > hk sobat (4160).
+
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.lk > cr.mp xx mk/hk sobat (1540/1860).
+			b. 1G: dr s.mp > cr.hp > cr.mp xx ender. 			
+					
+		6. Punish Counter
+			a. 0G DP Whiff: s.hp xx hp mgu (3160).
+			b. 0G DP Whiff: cr.hp > cr.hp > cr.mp xx hk dp (3150).			
+			c. 4G+LVL3 DP Whiff: lvl 1 > dr cr.mp xx ex sway~hk > dr b.hk (2nd hit only) xx sway hk > lvl 2 (4226).			
+			d. 0G Neutral Whiff: s.hp/s.hk drc etc.
+		
+		7. Drive Impact		
+			a. 0G/2G Midscreen: dash or walk > s.hp xx hp/ex mgu (2860/3350).
+			
+			b. 0G/LVL1 Wall Splat: s.hp xx sway~hk > hk dp (2920) or lvl 1 (3220).
+			c. 2G Wall Splat: s.hp xx ex sway~hk > sway~hk > mk sobat (3290).
+			d. 2G+LVL3 Wall Splat: s.hp xx ex sway~hk > sway~hk > mk sobat xx lvl 3 (5290).
+			
+			e. ALL Stun: j.hp > cr.hp > cr.mp drc s.hp > b.hk xx ex sway~hk > dr s.hp xx hp mgu xx lvl 3 (5405).
+			f. Stun Reset: di cancel from b.hk into wall splat. follow up with wall splat route d (8258).			
+		
+	C. Oki
+	
+		1. MK Sobat
+			a. 1G Midscreen: dash > dr b.hk > b.hk xx ender.			
+			b. 0G Corner: cr.hp (whiff) > cr.hp > b.hk xx ender.
+		
+		2. HK DP (+42, safe jump viable)			
+			a. 0G Midscreen: dash > dash > cr.mp > cr.mp xx ender.
+			b. 0G Corner: (assuming mk dp > hk dp) cr.hp (whiff) > cr.hp > b.hk xx ender.
+		
+        3. Forward Throw
+            a. 1G Midscreen: dash > dr b.hk > b.hk xx ender.
+			b. 0G Corner: throw loops? kinda, heavily manually timed. you may want to bait with a sway instead.
+
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: j.2lk side switch > s.lk xx hp mgu (2460).	
+
+        2. EX Sobat and EX MGU are the options you'll want to use if you want to cancel into lvl 2.
+
+==========================================================================================================================================
+
+VII. Dhalsim
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: b.mp, b.hp xx lvl 1 grounded, b.hp drc b.mp xx hk blast > lvl 1/3 or s.hp, lvl 2/3.
+		
+		2. Cross Ups: j.lk, but don't do this.
+		
+		3. Air-To-Airs: j.lp (fastest), everything else tbh.
+		
+		4. Best Neutral Attacks: s.lp/s.lk/s.hk, cr.lp/mp, db.mk/hp, b.mp/hp/mk.
+		
+		5. Risky But Effective Neutral Attacks: s.mp/hp/mk, cr.hp.
+		
+		6. Frame Traps: the drill stuff but i suck at them so nothing here lol.
+			
+	B. Combos (Enders: EX Flame for lvl 1 link)
+
+		1. Lights
+			a. 0G: db.lk > cr.lp > hp fire (950). 
+			b. 2G: db.lk > cr.lp > ex fire (1270). 
+			c. 3G: db.lk > cr.lp drc s.lp > b.mp xx hk blast (1699).
+			d. Instant Air Teleport: j.lp > b.mp xx hk blast (1960). (standing only)
+			e. 5G: db.lk > cr.lp drc s.lp > b.mp xx ex flame > s.hp (1915).
+			f. 5G+LVL1: db.lk > cr.lp drc s.lp > b.mp xx ex flame > s.hk xx hp lvl 1 (2515).
+			g. ALL: db.lk > cr.lp drc s.lp > b.mp drc cr.hp > b.mk xx mp flame xx lvl 3 (4053).
+
+		2. Mediums
+			a. Instant Air Teleport: j.mk > cr.hp xx mp flame (1770).
+			b. 2G+LVL1: cr.mp/db.mk xx ex flame > lp lvl 1 (2936).
+			c. ALL: b.mp drc cr.hp > b.mk drc cr.hp > b.mk xx mp flame xx lvl 3	(4944).
+		
+		3. Heavys
+			a. same as above but just have cr.hp as the starter.
+
+		4. Corner
+			a. 2G: anything xx ex flame > hk blast > cr.lk. +8 standing reset
+			b. 4G+LVL2: anything xx ex flame > ex blast xx lvl 2. 
+			c. 2G+LVL3: anything xx ex flame > s.hk xx lvl 3. 
+
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.mk > b.mk xx ender. (hard to space)
+			b. 1G Damage: dr cr.hp > b.mk xx ender.			
+					
+		6. Punish Counter
+			a. 1G DP Whiff: s.hk > dr cr.hp > b.mk xx ender. (annoying to do now after the dr change)
+			b. 2G Neutral Whiff: s.hk xx ex fire > s.hp (2760).
+		
+		7. Drive Impact		
+			a. 0G Midscreen: b.hp xx hp flame (2520).
+			b. 2G Midscreen: b.hp xx ex flame routes.			
+            
+			c. 0G Wall Splat: db.hp xx hk blast > db.hk (2820).
+			d. 2G+LVL1/2/3 Wall Splat: db.hp xx ex blast > mp lvl 1/2/3 (3400/3820/4540).
+			e. 4G+LVL2/3 Wall Splat: db.hp xx ex flame > ex blast xx lvl 2/3 (3930/4530).			
+            
+			f. ALL Stun: df.kk (float) > j.hp > cr.hp drc cr.hp > b.mk drc cr.hp > b.mk xx mp flame xx lvl 3 (5234).			
+			g. Stun Reset: di cancel from 1st b.mk into wall splat. follow up with wall splat route d (7200).
+		
+	C. Oki
+	
+		1. MP Flame	
+			a. 0G Corner: b.mk (whiff) > cr.hp (trade) > cr.hp xx ender.
+		
+		2. HK Yoga Blast			
+			a. 0G Midscreen: any grounded teleport leaves +3, follow up with throw or d/df.kk float shimmy.
+            a. 0G Corner: cr.mk (whiff) > cr.hp (trade) > cr.hp xx ender.
+            
+        3. Forward Throw
+            a. 1G Midscreen: dr > cr.mk slide > cr.hp xx ender.		
+            b. 0G Corner: throw loops? lol, hell no. j.2lk drill will be +12 on hit though if you do it instantly.
+						
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: Instant Air Teleport F.PPP > j.lk > s.hk xx lp fire (hits meaty).
+
+==========================================================================================================================================
+
+VIII. Ed (Placeholder until he releases)
+
+==========================================================================================================================================
+
+IX. E.Honda
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: s.hp, headbutt, splash, any super.
+		
+		2. Cross Ups: j.2mk, j.lk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.hp.
+		
+		4. Best Neutral Attacks: s.lp/mp/hp/lk/hk, cr.lp/mp, s.lp~mp, headbutt.
+		
+		5. Risky But Effective Neutral Attacks: any splash, ex headbutt.
+		
+		6. Frame Traps
+			a. s.mp or splash (+1) > cr.lp > s.lp~mp xx ender.
+			b. ex sumo dash p (+2) > throw or do the above sequence.
+			
+	B. Combos (Enders: Sumo Dash for corner carry, Headbutt/Splash for damage, Slaps+ for combo extender)
+
+		1. Lights
+			a. 0G Corner Carry: s.lk > s.lp~mp xx sumo dash p~p (1970).
+			b. 0G Low: cr.lk > cr.lp > cr.lp xx mp/ex headbutt (1830).			
+			c. 0G+LVL3: cr.lk > cr.lp xx mp headbutt xx lvl 3 (3910).
+			d. ALL: cr.lk > cr.lp > cr.lp drc cr.lp > cr.mp drc s.hp xx sumo dash 2p > hp slaps xx lvl 3 (4131).
+
+		2. Mediums
+			a. 0G: cr.mk > s.lp~mp xx sumo dash p~p (2200).
+			b. 2G: cr.mp xx ex slaps > cr.lp xx mp headbutt (2550).
+			c. 3G: cr.mp drc s.hp xx sumo dash 2p > hk splash (2735). 			
+			d. 2G+LVL3+S: cr.mp drc s.hp xx sumo dash 2p > hp slaps+ > mp slaps xx lvl 3 (5047).			
+			e. ALL: cr.mp drc s.mp > s.hk drc s.hp xx sumo dash 2p > hp slaps xx lvl 3 (5163).
+		
+		3. Heavys
+            a. 0G: s.hk(1) xx sumo dash 2p > hk splash (2320).
+			b. 2G Corner Carry: s.hp xx ex sumo dash 2p > sumo dash p~p (2960).			
+			c. 0G+S: cr.hp xx hp slaps+ > cr.lp xx mp headbutt (3040).
+			d. 0G+S Oki: s.hp xx clap xx mp slaps+ > cr.lp xx hk splash (3220).
+			e. 2G+S: s.hp xx ex sumo dash 2p > hp slaps+ > hp headbutt (3680).			
+			f. 4G+LVL2+S: s.hk(1) xx sumo dash 2p > ex spirit slaps > ex slaps xx lvl 2 (4150).
+			g. ALL: s.hp drc s.mp > s.hk drc s.hp xx sumo dash 2p > hp slaps xx lvl 3 (5463).
+			
+		4. Corner			
+			a. 2G: anything xx sumo dash 2p > hp slaps > ex splash or lvl 1.
+
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.mk > cr.mp xx hp headbutt (2140).
+			b. 1G Low Alt: dr cr.mk > s.hk xx hp headbutt (2420).	
+            c. 4G Low: dr cr.mk > s.hk drc s.hp xx sumo dash 2p > ender.
+            d. 1G Ambiguous Low: dr f.hk > s.lp~mp xx ender.
+					
+		6. Punish Counter
+			a. 0G Oki DP Whiff: s.hp > sumo dash 2p > splash (3000).
+			b. 0G Corner Carry DP Whiff: s.hp > s.hp xx sumo dash p~p (3040).
+			c. 0G+S DP Whiff: s.hp > s.hk xx clap xx hp slaps+ > hp headbutt (3885).
+			d. 1G Neutral Whiff: s.hp > dr s.hp xx sumo dash 2p > hk splash (3215). 
+		
+		7. Drive Impact		
+			a. 0G Midscreen: any heavy starter above.
+			b. 1G Midscreen: nj.hk > dr hp xx sumo dash p~p (2791).
+            
+			c. 0G Wall Splat: s.hk(1) xx sumo dash 2p > hk splash (2520).
+			d. 2G Wall Splat: s.hk(1) xx sumo dash 2p > hp slaps > ex splash (3100).
+			e. 0G+LVL1/3 Wall Splat: s.hk(1) xx sumo dash 2p > hp slaps (> lvl 1 (3400) or xx lvl 3 (4388)).			
+			f. 3G+LVL3+S Wall Splat: s.hp drc (wait a bit) s.hp xx hp slaps+ > mp slaps xx lvl 3 (5006).
+            
+			g. LVL3+S Stun: spirit > j.hk > s.hp xx clap xx mp slaps+ > cr.lp xx lp slaps xx lvl 3 (5193).
+			h. 4G+LVL3+S Stun: spirit > j.hk > s.hp xx ex sumo dash 2p > ex slaps+ > headbutt xx lvl 3 (5643).						
+			i. Stun Reset: spirit > j.hk > s.hp drc s.mp > s.hk xx di, follow up with wall splat combo f (7769). 
+		
+	C. Oki
+	
+		1. Air Sumo Splash			
+			a. 1G Midscreen: dr s.mp > s.hp xx hp headbutt. (cancellable into lvl 3)
+            b. 0G Corner: dash > s.lk (whiff) > s.hk xx ender.
+		
+		2. LP~MP TC xx HP Hands
+			a. 1G Midscreen: dash > dr xx f.hk > s.hk > ender.			
+            
+        3. Forward Throw
+            a. 0G Midscreen: couldn't find anything
+            b. 1G Corner: throw loops? none. could do dr s.hk xx ender instead.
+						
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: s.hk(1) xx sumo dash 2p > dr s.hp drc (slight wait) cr.hk > lvl 1. (kinda hard to do)
+		
+==========================================================================================================================================
+
+X. Guile
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, s.mk, df.hk xx flash kick, any flash kick, lvl 1/3.
+		
+		2. Cross Ups: j.lk.
+		
+		3. Air-To-Airs: j.lp (fastest), back or forward air throw.
+		
+		4. Best Neutral Attacks: s.lp/mp/hp/lk, b.hp, cr.lp/mp/lk, b.lk, ex boom, any big boom.
+		
+		5. Risky But Effective Neutral Attacks: s.hk, f.hp/mk/hk, cr.mk, boom.
+		
+		6. Frame Traps: f.hp/ex boom in corner (+3) > cr.mp (ch) > cr.mp xx ender.
+		
+		7. Useful For Conserving Charge: b.lk, f.mk, s.hk for forward movement. b.mk for backward movement.
+			
+	B. Combos/BnBs (Enders: Flash Kick usually, creates space for guile to shine where he shines.)
+	
+		***Note: Certain charge combos are annoying to do, so i'm omitting them and just doing what's more consistent.
+            Some combos i have "(lvl 3 cancellable)" afterward to denote if you can cancel into lvl 3 specifically due
+            to the fact that some combos into flash kick might be too far to cancel into. Damage numbers are the 
+            non-perfect version as well. For perfect numbers, add 100-160 damage. ***
+		
+		1. Lights
+			a. 0G/2G Low: cr.lk > cr.lp xx hk/ex fk (1430/1750). 
+			b. 0G/2G: cr.lp > cr.lp xx hk/ex fk (1530/1850). (lvl 3 cancellable)
+		
+		2. Mediums
+			a. 0G/2G/LVL1: s.mp > cr.mp~mp xx hk/ex fk (2200/2440) or lvl 1 (2680).
+			b. 3G+LVL2: s.mp > cr.mp drc s.mp > s.mp > cr.mp xx lvl 2 > b.hp xx lp booms (all) > dr cr.mk > heavy fk (3213).
+			c. 5G+LVL1: s.mp > cr.mp drc s.mp > s.mp~b.hp xx hp lvl 1 > ex fk (3466).
+			d. ALL: s.mp > cr.mp drc s.mp > b.hp drc s.hk > s.mp~b.hp xx lvl 3 (4944).
+		
+		3. Heavys			
+			a. 3G: s.hp drc s.hk > cr.mp xx hk fk (2696). (hk fk cancellable to lvl 3)
+			b. 5G+LVL1: s.hp drc s.hk > s.mp~b.hp xx lvl 1 > ex fk (3806).
+			c. ALL: s.hp drc s.hk > s.hp drc s.hk > s.mp~b.hp xx lvl 3 (5222).
+		
+		4. Corner			
+			a. 2G: s.hp xx ex blade > hk fk (2320). (damage is perfect version. couldn't do non-perfect. lvl 3 cancellable)
+		
+		5. Raw Drive Rush
+			a. 1G Low: dr > cr.mk > cr.mp xx hk fk (1820). (lvl 3 cancellable. if far, don't do cr.mp, just link into hk fk.)
+			b. 5G+LVL1 Low: dr cr.mk > s.hp drc s.hk > s.mp~b.hp xx lvl 1 > ex fk (3187).
+			c. ALL Low: dr cr.mk > s.hp drc s.hk > s.hp drc s.hk > s.mp~b.hp xx lvl 3 (4841).
+			d. 1G Overhead: dr f.mp > cr.mp xx hk fk (2360). (lvl 3 cancellable)
+			e. 4G Overhead: dr f.mp > cr.mp drc s.mp > etc.
+			
+		6. Punish Counter			
+			a. 0G DP Whiff: s.hp > df.hk xx hk fk (3040).
+            b. 3G DP Whiff: s.hp > s.hp drc s.hk/s.mp > etc.
+			c. 3G Neutral Whiff: s.hp drc s.hk/s.mp > etc.
+					
+		7. Drive Impact
+			a. 0G Midscreen: df.hk xx hk fk (2600).
+			b. 2G+LVL1 Midscreen: b.hp xx lvl 1 > ex fk (3640).
+			c. 0G+LVL3 Midscreen: b.hp xx lvl 3 (4400). (can do s.hp or df.hk for more damage)
+			d. ALL Midscreen: s.hp drc s.hk > s.hp drc s.hk > s.mp~b.hp xx lvl 3 (5301).
+			
+			e. 0G/2G Wall Splat: s.hp xx lp blade > hk/ex fk (2520/2760). (lvl 3 cancellable)
+			f. 2G/LVL1 Wall Splat: cr.hk~df.hk~hk fk > ex fk (2860) or lvl 1 (3180).
+			g. 2G+LVL1 Wall Splat: b.hp xx lvl 1 > ex fk (3660).
+			h. LVL3 Wall Splat: s.hp xx lp blade > hk fk xx lvl 3 (4640). (damage is perfect version. couldn't do non-perfect.)
+			
+			i. ALL Stun: j.hp > s.hp drc s.hk > s.hp drc s.hk > s.mp~b.hp xx lvl 3 (5639).			
+			j. Stun Reset: di cancel from 2nd s.hp into wall splat, follow up with wall splat route h (7496).
+		
+	C. Oki
+	
+		1. HK Flash Kick (Corner)
+			a. 3G Corner: cr.hp (whiff) > s.mp (ch) > s.hp drc > etc.
+			
+		2. EX Flash Kick (Corner)
+			a. 3G Corner: dash > s.mp > s.hp drc > etc.
+            
+        3. Forward Throw
+            a. 1G Corner: throw loops? yes, but costs 1g. throw > dr throw > dr throw > etc. if not throwing, do dr s.mp > s.hp > ender. 
+			
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: s.mp~b.hp xx lvl 1 (2940) > dash > b.lk (hop) > cr.lp (whiff) > s.mp (ch) > s.hp > etc.		
+		
+		2. ALL Corner Scuffed Style Combo: j.hp > s.mp~b.hp drc s.mp~b.hp drc b.hp > lvl 3 (4876+). (do combo as fast as possible)
+		
+==========================================================================================================================================
+
+XI. Jamie
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, any dp, launcher kick > j.hk > cr.hk drink ender, launcher kick > j.mp xx ex dive kick > ender, lvl 1/3.
+		
+		2. Cross Ups: j.mk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.mp xx dive kick, j.hk > cr.hk drink ender.
+		
+		4. Best Neutral Attacks: s.lp/lk/mk/hk, cr.lp/mp/hp/mk/hk, ex palm.
+		
+		5. Risky But Effective Neutral Attacks: s.hp.
+		
+		6. Frame Traps
+			a. s.mp (+1) > (ch) cr.lp > cr.mk xx ender		
+			
+	B. Combos (Enders: EX Palm for +2 drink, Strikes for drink/oki, Bakkai/4D Double Palm for damage)	
+		** SEE MISC SECTION FOR SPECIFIC COMBO ENDERS REGARDING DRINK LEVEL **
+
+		1. Lights
+			a. 0G/2G: cr.lk > cr.lp > s.lk xx light/ex ender. 		
+			b. 3G: cr.lk > cr.lp > s.lk drc cr.lp > cr.hp xx heavy ender.
+            c. 3G+1D: cr.lk > cr.lp > s.lp~lk~mp drc s.mp > cr.hp xx heavy ender.
+			d. ALL: cr.lk > cr.lp > s.lk drc cr.lp > cr.hp drc s.mp > cr.hp xx heavy ender xx lvl 3 > follow ups in misc.
+
+		2. Mediums
+			a. 0G/2G: s.mp > s.lk xx light/ex ender.			
+			b. 3G: cr.mk drc s.mp > cr.hp xx heavy ender.
+			c. 3G+LVL2: s.mk xx ex palm xx lvl 2 > dr cr.hp xx hp double palm (3390).			
+			d. ALL: cr.mk drc s.mp > cr.hp drc s.mp > cr.hp xx heavy ender xx lvl 3 > follow ups in misc.
+		
+		3. Heavys
+			a. 0G/2G: cr.hp/s.hk xx heavy/ex ender.					
+			b. 0G+LVL2: f.hk xx lvl 2 > cr.hp xx hp double palm (3420).
+			c. 3G: cr.hp/s.hk drc s.mp > cr.hp xx heavy ender.	
+			d. ALL: cr.hp/s.hk drc s.mp > cr.hp drc s.mp > cr.hp xx heavy ender xx lvl 3 > follow ups in misc.			
+
+		4. Corner
+			a. 2G: starter xx ex palm > cr.hk drink ender or hk dp or lvl 1/3.
+			b. 0G+1D: divekick > s.hp(1 or 2 hits) xx hk dp (2109). 
+			c. 0G+4D: starter xx ex palm > s.hp xx lp double palm.
+
+		5. Raw Drive Rush
+			a. 1G Overhead: dr f.mk > s.lk xx light ender. 
+            b. 1G+1D Overhead: dr f.mk > s.lp~lk~mp xx hk dp (2135).
+
+		6. Punish Counter
+			a. 0G DP Whiff: s.hk > dash cr.hp xx heavy ender.
+			b. 0G D+1 DP Whiff: s.hk > dash launcher kick > cr.hk drink ender (2295).			
+			c. 2G D+2 Corner DP Whiff:: s.hk xx drink > cr.lp > s.hp xx ex palm > cr.hk drink ender (2594).
+			d. 4G Corner Drive Gauge Buster DP Whiff (3.9G): di > lvl 3 > dr cr.hp xx di (4021).
+            e. Neutral Whiff: s.hk/cr.mk drc etc.
+		
+		7. Drive Impact		
+			a. 0G Midscreen: dash > cr.hp xx heavy ender. (dash first for more corner carry)
+			
+			b. 0G Wall Splat: cr.hp xx hp strike(1) > s.hp(1) xx hk dp (2335).		
+			c. 2G Wall Splat: cr.hp xx ex palm > cr.hk drink ender (2718) or hk dp (2817).
+			d. 0G/2G+4D Wall Splat: f.hk~b.hk~s.hp xx mp/ex double palm (3366/3487).
+
+			e. ALL(LVL3) Stun: drink > j.hp > cr.hp drc s.mp > cr.hp xx hp palm xx lvl 3 > follow ups in misc.
+			f. ALL(CA) Stun: drink > j.hp > cr.hp drc s.mp > cr.hp drc s.mp > cr.hp xx heavy ender xx ca.
+			g. Stun Reset: use lvl 3 stun combo e, end in lvl 3 reset follow up (g in misc), into wall splat combo c or d (7300+).
+		
+	C. Oki
+	
+		1. HK DP 
+			a. 1G Midscreen: dash > dr s.mp > cr.hp xx ender.
+            b. 0G Corner: s.mk (whiff) > s.mp > cr.hp xx ender.
+		
+		2. Normal Rekkas
+			a. 1G Midscreen: dr f.hk > cr.hp xx ender.
+            b. 0G+1D Corner: dash > s.mp > s.lp~lk~mp tc xx ender.
+
+		3. Heavy Bakkai
+			a. 1G Midscreen: dr f.mk > cr.hp xx ender.
+            b. 0G Corner: s.mp (whiff) > s.mp > cr.mk xx ender.
+			
+		4. Light Bakkai + Light DP are +42, safe jump viable.
+        
+        5. Forward Throw
+            a. 1G Midscreen: dr f.hk (trade) > cr.hp xx ender. if no health, do dr s.hk > cr.mk xx ender instead.
+            b. 0g Corner: throw loops? yes, throw > dash > throw.
+						
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: nj.hk (very late) > dash > s.hp(1) xx lp palm (1701).
+
+		2. Combo Ender Changes Regarding Drink Level. 
+			a. Drink Level 1: use s.lp~lk~mp target combo instead of normal lights.
+			b. Drink Level 2: end in bakkai when possible.
+			c. Drink Level 3: no changes.
+			d. Drink Level 4: end in double palm when possible, or strikes for oki.		
+			
+		3. LVL3 Follow Ups:
+			a. 0G: hp palm.
+			b. 1G: dr launch kick > j.hk > hk dp or cr.hk drink ender.
+			c. 2G+1D: dr launch kick > j.mp xx ex dive kick > hk dp.
+			d. 2G Corner: ex palm > hk dp or cr.hk drink ender.
+			e. 3G Corner: dr cr.hp xx ex palm > hk dp.
+			f. 1G+4D Corner: dr cr.hp xx lp palm > s.hp(1) xx lp double palm.
+			g. 2G Reset: dr cr.hp > cr.lp xx di.
+			
+==========================================================================================================================================
+
+XII. JP
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, f.hk, any amnesia, air throw, lvl 1/3.
+		
+		2. Cross Ups: j.lk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.mp (far af), air throw.
+		
+		4. Best Neutral Attacks: s.lp/hp/lk/mk, cr.lp/mp/hp/lk, s.hk~hp, b.mp~mp, nj.mp (hella range).
+		
+		5. Risky But Effective Neutral Attacks: s.hk, cr.mk/hk, df.hp. (his sweep is -6 on block, abuse this)
+		
+		6. Frame Traps
+			a. s.hk/ex stribog (+2) > s.lk (ch) drc cr.mp > cr.hp xx ender.
+			b. hp stribog (+4) > cr.mp (ch) (if close, > s.mk xx ender. if far, drc cr.hp xx hp stribog > etc.) 
+			c. portal spike (+10) > s.hp (ch) xx hp stribog > etc. (if blocked, still +4 after blocked hp stribog)
+			d. point blank ex ghost (+25, higher the further you are) > literally whatever you want.
+			
+	B. Combos (Enders: HP Stribog or EX Ghost > Far Spike for damage/zoning. S.HP (air juggle hit) xx portal for oki)
+
+		1. Lights
+			a. 0G Low: cr.lk > cr.lp > s.lp xx lp stribog (1410).
+            b. 0G Close: s.lpx4 xx lp stribog (1620).
+			c. 3G: cr.lk > cr.lp > s.lp drc s.lp > b.mp~mp xx mp stribog (1760).			
+			d. 3G+LVL2: cr.lp > cr.lp > s.lp drc s.lp > b.mp~mp xx lvl 2 > lvl 2 shenanigans in misc section.
+			e. ALL: cr.lp > cr.lp > s.lp drc s.lp > b.mp~mp drc cr.hp xx hp stribog > mk ghost > hp spike xx lvl 3 (4158).
+
+		2. Mediums
+			a. 0G Close: cr.mp > s.lp > s.lp xx lp stribog (1840).
+			b. 0G Far: b.mp~mp xx mp stribog (1960).  
+			c. 3G: cr.mp drc cr.hp xx hp stribog > mk ghost > hp spike (2822).
+            d. ALL: b.mp~mp drc s.hk > cr.mp drc cr.hp xx hp stribog > mk ghost > hp spike xx lvl 3 (5182).
+            
+		3. Heavys
+			a. 0G: s.hk > cr.mp xx mp stribog (2360).
+			b. 3G: s.hk > cr.mp drc cr.hp xx hp stribog > mk ghost > hp spike (3262).
+            c. ALL: s.hk~hp drc s.hk > cr.mp drc cr.hp xx hp stribog > mk ghost > hp spike xx lvl 3 (5482).
+            
+		4. Corner
+			a. 0G: b.mp~mp/cr.mp/s.hk~hp xx mp stribog > cr.hp xx mk/hk ghost (overhead/low mix, links into f.hk xx hp stribog > etc.)
+			b. 0G+LVL1: s.hk > cr.mp xx mp stribog > lvl 1 (3760).
+            c. 2G+LVL3: f.hk xx hp stribog > dash or walk > s.hp xx ex ghost > spike > lp stribog xx lvl 3 (5730).
+
+		5. Raw Drive Rush
+			a. 1G Low or Overhead: dr cr.mk/f.mk > cr.mp xx mp stribog (2260). 			
+			b. 4G Low or Overhead: dr cr.mk/f.mk > cr.mp drc cr.hp xx hp stribog > mk ghost > hp spike (3162).			
+
+		6. Punish Counter
+            a. 0G DP Whiff: s.hp xx hp stribog > mk ghost > hp spike (2780).
+            b. 1G DP Whiff: s.hp > dr s.hp xx hp stribog > mk ghost > hp spike (2822).
+            c. 3G DP Whiff: s.hk > f.hk drc s.hp xx hp stribog > mk ghost > hp spike (3722).
+            
+			d. 1G Neutral Whiff: s.hp > dr s.hp/cr.hp xx ender.
+		
+		7. Drive Impact		
+			a. 0G Midscreen: dash or slight walk > s.hp xx hp stribog > mk ghost > hp spike (3160).
+			b. 2G Corner Carry Midscreen: ex portal > cr.lp xx lp stribog > dashx2 > j.mk > s.hp xx spike (3360).			
+            
+			c. 0G Wall Splat: f.hk xx mp stribog > s.hp xx lp spike (2960) or portal for oki.
+			d. 2G+LVL3 Wall Splat: f.hk xx mp stribog > s.hp xx ex ghost > lp spike > lp stribog xx lvl 3 (5490).	
+			
+			e. 2G Stun: portal > dash > s.hp xx mk ghost > f.hk xx mp stribog > s.hp xx ex ghost > lp spike > lp stribog xx lvl 3 (5940).
+			f. Stun Reset: j.hk > s.hk~hp drc > s.hk > cr.mp xx di into wall splat. follow up with wall splat route d (8330).
+		
+	C. Oki
+	
+		1. Normal Spike
+			a. 2G Corner: ex portal corner oki shenanigans in misc section. (air juggle hit is same oki)			
+		
+		2. EX Spike
+			a. 0G Corner: normal portal > +3, so throw or s.lpx2 x lp stribog > dr late s.hp > the usual
+			b. (Air Juggle Hit) 0G Corner: normal portal > +6, so throw or s.lpx3
+
+		3. LP Stribog			
+			a. 0G Corner: cr.hk (whiff) > s.mk xx ender/drc/etc.
+			
+		4. MP Stribog
+			a. 0G Corner: dash > f.mk > cr.lp/s.lk xx ender/drc/etc.
+        
+        5. Forward Throw            
+            a. 0G Corner: throw loops? yes, throw > dash > throw.
+
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch 
+			a. 4G: ex portal > cr.lp xx lp stribog > dashx2 walk under > s.hp xx ex ghost > hp spike (3460).
+			b. 2G+LVL2 Gauge Buster (4.5G): s.hk~hp xx lvl 2 > s.hp > jump over > hp portal > s.hp xx di > di (3590).
+		
+		2. EX Portal Corner Oki Shenanigans:
+			a. 2G Overhead: cr.lp > s.lp > s.lp (1st spike blocked) > f.mk > (2nd spike hits) > s.hp xx ex ghost/lp spike/etc.
+			b. 2G Throw: throw > s.hp xx ex ghost > etc.
+			
+		3. OD Amnesia Situations:
+			a. LVL2 (While In Corner) Throw Counter: lvl 1 > lvl 1 (4320).
+			b. LVL3 (While In Corner) Throw Counter: s.mk > hp portal > mk ghost > hp spike > mk ghost > hp spike xx lvl 3 (5740).
+			c. 2G (While In Corner) Throw Counter: back throw > s.hp xx ex ghost > s.hp xx lp spike (2360).
+			
+		4. Level 2 Shenanigans:
+			a. Low Reset: s.lk xx hp portal > nj.lk > cr.mk > dash (optional) > hp stribog > etc.
+			b. Overhead Reset: s.lk xx hp portal > nj.lk > f.mk > hp stribog > etc.
+			c. 3G Gauge Buster (2.9G): s.hp > dash > s.hp xx hp portal > backwalk 1-2f > s.hp xx di > dr s.hp xx di (3598).
+			d. 0G Damage: s.hk~hp > cr.hp xx hp portal > s.hk~hp xx lp spike > hp stribog > etc. (3730).				
+		
+==========================================================================================================================================
+
+XIII. Juri
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp xx fuha/qcf+lk/drc cross-under mixup, hp/ex dp, air throw, lvl 3.
+		
+		2. Cross Ups: j.lk/mk.
+		
+		3. Air-To-Airs: j.lk (fastest), air throw, j.mp xx divekick, j.mp xx ex divekick > hp/ex dp or lvl 3 or (corner) qcf+hk > ex dp.
+		
+		4. Best Neutral Attacks: s.lp/mp/hp/lk/mk, cr.lp/mp/hp/mk, f.mp/hp, b.hk, fireball.
+		
+		5. Risky But Effective Neutral Attacks: s.hk, ex fireball. 
+		
+		6. Frame Traps
+			a. s.mp (+2) > s.mk(1) xx ender or s.mp (trade) > f.mp xx drc/ender.
+			
+	B. Combos (Enders: ** SEE MISC SECTION FOR ENDERS **) 
+
+		1. Lights
+			a. 0G F+1: cr.lk > cr.lp > cr.lp xx mk fuha (1130).
+			b. 0G/2G: cr.lk > cr.lp > cr.lp xx hp/ex dp (1550/1830). 			
+			c. 0G: s.lp > s.mk(1) xx ender.
+			d. 3G: cr.lk > cr.lp drc s.lp > cr.hp xx ender.
+			e. ALL: cr.lk > cr.lp drc s.lp > cr.hp drc ender route c.
+
+		2. Mediums
+			a. 0G: cr.mp > s.mk(1) xx ender.
+			b. 0G +1F: s.mp > cr.mp xx mk fuha (1680).			
+			c. 2G+1F: s.mp > cr.mp xx ex fuha > hp dp (2310).
+			d. 3G Low: cr.mk drc s.mp > cr.hp xx ender.			
+			e. 3G: s.mp > cr.mp drc s.mp xx cr.hp xx ender.
+			f. 3G +1F Oki: s.mp > cr.mp drc cr.hp > s.mp > cr.mp xx mk fuha (2724).
+			g. ALL: s.mp > cr.mp drc cr.hp > s.mp > cr.mp drc ender route c.
+		
+		3. Heavys
+			a. 0G: cr.hp/s.hp xx ender.
+			b. 0G: f.hp xx ender route b.
+			c. 3G: f.hp drc s.mp > cr.hp xx ender.
+			d. ALL: f.hp drc s.mp > cr.hp drc ender route cr.
+
+		4. Corner
+			a. 2G: starter xx ex qcf+lkmk > hp dp.
+			b. 3G+1F: starter xx ex qcf+mkhk~mk > hp dp or lvl 1/3.
+			
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.mk > s.lk > hp dp (1580).
+			b. 1G Overhead: dr f.mk > s.mp > cr.mp xx ender.
+
+		6. Punish Counter
+			a. 0G DP Whiff: s.mp > s.hp xx ender.
+			b. 1F Neutral Whiff: s.hp xx qcf+mk > f.mp xx hp/ex dp (2700/2940).
+		
+		7. Drive Impact		
+			a. 0G Midscreen: any heavy route.	
+            
+			b. 0G F+1 Wall Splat: cr.hp xx hk fuha > hp dp (2590).
+			c. 2G+1F Wall Splat: cr.hp xx qcf+hk > ex dp (3320).
+            d. 2G+LVL3 Wall Splat: cr.hp xx qcf+mkhk xx lvl 3 (4360).
+			e. 3G+1F+Lvl1/3 Wall Splat: cr.hp xx qcf+mkhk~mk > lvl 1/3 (3560~3680/4840).			
+			
+			f. ALL Stun: jump back > fuha > j.hk > cr.hp drc cr.hp > s.mp > cr.mp drc cr.hp > s.mp > cr.mp xx mk fuha xx lvl 3 (5408).
+			g. Stun Reset: di cancel from first cr.mp. follow up with wall splat route d. (7345) 
+		
+	C. Oki
+	
+		1. MK Fuha
+			a. 0G Midscreen: dash > f.hp > (cancel 2nd hit on confirm, or link into s.lp > ender)
+            b. 0G Corner: cr.mk (whiff) > s.mp > s.hp xx ender.
+		
+		2. HP DP
+			a. 1G Midscreen: dr s.hk > f.mp xx ender.
+            b. 2G/1F Midscreen: dash > s.mp xx qcf+mk or qcf+lkhk > f.mp xx ender. can also do... dr > s.hk > f.mp xx ender.	
+            c. 0G Corner: dash > s.mp > s.hp xx ender.
+
+        3. Forward Throw
+            a. 1G Midscreen: not much besides dr s.hk, which doesn't lead into anything else.
+            b. 0G Corner: throw loops? yes. throw > dash (+3) > throw.
+
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: wait a bit > f.hp drc lvl 1 (during run qcf then qcb after switching sides) (2999).
+		
+		2. General Combo Enders (generally followed from s.mk(1), s.hp or cr.hp)
+			a. No Stock +1F: hk fuha > hp/ex dp (1400/2100) or lvl 1+/3 (2600+/4500). 
+			b. 1 Stock: qcf+mk > f.mp xx hp/ex dp (1920/2200). (Best for meterless, can also end in fuha to get stock back + good oki)
+			c. Lvl1/3: go with route a instead if it's a short combo. if long, do drc'd cr.hp > s.mp > cr.mp xx lvl 1/mk fuha xx lvl 3.	
+		
+		3. Level 2 Super Routes (usually done off of s.hp, cr.mk, or s.mp > cr.mp)
+			a. 0G Corner Carry: lvl 2 (hold) > cr.mk~s.mp~b.hk~cr.hp > j.lp~mp~mk xx dive kick (2090).	
+            b. 1F Damage: lvl 2 (hold) > s.mp~mk~hk~hp xx qcf hk > hp dp (2750).
+            c. 2G Damage: lvl 2 > f.hp xx ex qcf lkhk > cr.mk~s.mp > s.lk~f.mp~cr.mk~s.hk~s.hp xx hp dp/qcfhk > hp dp (3110/3180).
+
+==========================================================================================================================================
+
+XIV. Ken
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, dp, lvl 1/3. 
+		
+		2. Cross Ups: j.mk, j.lk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.mp xx any air tatsu. j.mp xx EX Air Tatsu allows juggle with lp/ex dp or any super (corner).
+		
+		4. Best Neutral Attacks: s.lp/mp/hp/lk, cr.mk, ex hadoken.
+		
+		5. Risky But Effective Neutral Attacks: s.mk/hk, hk lash, run mk (overhead), run hk (confirm into any super).
+			
+	B. Combos (Enders: Run Tatsu for corner carry, Run DP/LK Tatsu(2) xx MP DP for damage, Run Lash > HP DP for sideswitch + max damage)
+
+		1. Lights
+			a. 0G Close: cr.lk > cr.lp xx lk tatsu(2) > mp dp (1940). 
+			b. 0G: cr.lk > cr.lp > s.lp > hp dp (1690).
+			c. 0G: cr.lp > s.mp~hp xx run ender.
+			d. 3G: cr.lk > cr.lp > s.lp drc s.lp > s.mp~hp xx run ender.
+			e. 6G+LVL2 Sideswitch: cr.lk > cr.lp > s.lp drc s.lp > cr.hp xx hk jinrai > ex lash > ex jinrai hk~mk xx lvl 2 (3260).
+			f. ALL: cr.lk > cr.lp > s.lp drc s.lp > cr.hp drc s.hp > cr.mp xx hp dp xx lvl 3 (4069).
+
+		2. Mediums
+			a. 0G: s.mp > s.lp xx hp dp (2020).
+			b. 2G: s.mp~hp run lash > ex dp (2650) or ex tatsu (2595).
+			c. 3G: cr.mp/s.mp drc s.hp > s.mp xx lk tatsu (2) > mp dp (2864).
+			d. 6G: cr.mp/s.mp drc s.hp > cr.mp drc s.hp > s.mp xx lk tatsu (2) > mp dp (3370).
+			e. ALL: cr.mp/s.mp drc s.hp > cr.mp drc s.hp > s.mp~hp run dp/lash > lvl 3 (5039).			
+		
+		3. Heavys
+			a. 0G: cr.hp/s.hp run ender.
+			b. 2G: cr.hp xx hk jinrai > ex lash > hp dp (3300).
+			c. 3G: cr.hp/s.hp drc s.hp > s.mp xx lk tatsu (2) > mp dp (2964).
+			d. 4G+LVL2 Sideswitch: cr.hp xx hk jinrai > ex lash > ex jinrai~mk xx lvl 2 (4545).
+			e. 6G: cr.hp/s.hp drc s.hp > cr.mp drc s.hp > s.mp xx lk tatsu (2) > mp dp (3470).
+			f. ALL: cr.hp/s.hp drc s.hp > cr.mp drc s.hp > s.mp~hp run dp/lash > lvl 3 (5139).
+
+		4. Corner
+			a. 0G: cr.hp xx hk jinrai~hk > lp dp (2910).
+			b. *insert hard jinrai loop combos here*
+
+		5. Raw Drive Rush
+			a. 4G Low: dr cr.mk drc cr.hp > etc.			
+					
+		6. Punish Counter
+			a. 0G DP Whiff: run tatsu > cr.mp xx lk tatsu(2) > mp dp (3405).
+			b. 3G DP Whiff: run tatsu > cr.mp drc cr.hp > etc.
+			c. 3G Wall To Wall DP Whiff: run tatsu > cr.mp drc cr.hp > run stop > s.mp~hp xx run tatsu. (3285)
+			d. 3G Neutral Whiff: s.hp/cr.mk drc etc.
+		
+		7. Drive Impact		
+			a. 0G Midscreen: nj.hk > run ender or cr.hp/s.hp xx lk tatsu(2) > mp dp (2870).
+			b. 0G+LVL1/2/3 Midscreen: nj.hk > run hk xx lvl 1/2/3 (3440/3860/4640).			
+			
+			c. 0G Wall Splat: s.hp xx hk jinrai~hk > mp/ex dp (3060/3210).
+			d. 4G+LVL2 Wall Splat: s.hp xx hk jinrai > ex lash > ex jinrai~mk xx lvl 2 (4280).
+			e. 2G+LVL3 Wall Splat: s.hp xx hk jinrai > ex lash > lvl 3 (4580).
+			
+			f. 0G+LVL1/2/3 Stun: nj.hk > s.hp run hk xx lvl 1/2/3 (3560/3910/4560).			
+			g. ALL Stun: nj.hk > s.hp drc s.hp > cr.mp drc s.mp > cr.hp xx hk jinrai > lvl 3 (5305).			
+			h. Stun Reset: di cancel from 1st cr.mp into wall splat. follow up with wall splat route e (7362).
+		
+	C. Oki
+    
+        1. LK Tatsu(2) xx MP DP
+            a. 1G Midscreen: dash > dr s.mp > s.hp xx ender.
+            b. 0G Corner: cr.mp (whiff) > s.hp > cr.mk xx ender.
+	
+		2. S.MP~HP xx Run Tatsu 
+			a. 0G Midscreen: dash > dash > s.mp > cr.mp xx ender.
+            b. 0G Corner: s.hp (whiff) > s.hp > s.mp xx ender. (lk tatsu(2) works here)
+		
+		2. Forward Throw
+            a. 1G Midscreen: dr s.hp > cr.hp xx ender.
+            b. 0G Corner: throw loops? yes, not auto-timed though. throw > walk forward > throw.
+						
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch
+			a. Meterless: s.mp~hp run lash > ender.
+			b. 2G: cr.hp > hk jinrai > ex lash > ender.
+		
+		2. Run lash or ex lash hitting air juggle (usually after s.mp~hp) links into any super.		
+		
+		3. Really Good Sweep Punish (-10): s.hp > mk dragonlash > cr.lp > s.mp > etc.
+			**Doesn't Work On: Deejay (spaced), Dhalsim (spaced), JP, Luke, Marisa (Charged)** 
+
+==========================================================================================================================================
+
+XV. Kimberly
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp xx run stop (left/right mix-up), any tatsu, normal/ex air twister, lvl 1/3.
+		
+		2. Cross Ups: j.mk, j.lk.
+		
+		3. Air-To-Airs: j.lp (fastest), any air twister, j.mp xx hk air tatsu (1440) or lvl 2 (3050) or ex air tatsu xx lvl 2 (3620).
+		
+		4. Best Neutral Attacks: s.lp/mp/hp/lk/mk, cr.mk, ex smoke attack. 
+		
+		5. Risky But Effective Neutral Attacks: s.hk, cr.lk, f.hk, df.mk.
+		
+		6. Frame Traps
+			a. run lk/cr.mk (+1) > cr.lp (ch) > s.mp > etc.
+			b. s.hk (+2) > s.lp target combo.
+			c. ex run lk (+3) > cr.mp (ch) > s.hp xx ender.
+			
+	B. Combos (Enders: Run MK/EX Run Hit~K for corner carry, HK/EX Tatsu for damage, HP/EX Elbow for both)
+
+		1. Lights
+			a. 0G: cr.lk > cr.lp > cr.lp xx lp elbow (1071). (oki: +3, so throw or cr.mp > s.hp > etc.)
+			b. 0G: cr.lk > cr.lp > cr.lp xx hk tatsu (1458).
+			c. 3G: cr.lk > cr.lp > s.lp drc s.lp > cr.hp xx ender.
+			d. 5G+LVL2: cr.lk > cr.lp > s.lp drc s.lp > cr.hp xx hp elbow > j.mp xx ex air tatsu xx lvl 2 (2919).
+			e. 4G+LVL3: cr.lk > cr.lp > s.lp drc s.lp > cr.hp xx hp elbow > dr s.lp~s.mp~cr.hp~s.hk > lp elbow xx lvl 3 (3794).			
+
+		2. Mediums
+            a. 0G Low: cr.mk > s.lk xx ender.
+			b. 0G: cr.mp > s.mp~hp xx ender.			
+			c. 2G: cr.mp > s.mp~hp xx ex elbow > j.mp xx air tatsu (2375). 			
+			d. 3G: cr.mp > s.mp drc s.hk > cr.hp xx hp elbow > j.mp xx air tatsu (2610).
+			e. 3G+LVL3: cr.mp > s.mp~hp xx ex elbow > dr s.lp~s.mp~cr.hp~s.hk > lp elbow xx lvl 3 (4465). 	
+			f. 5G+LVL2: cr.mp > s.mp drc s.hk > cr.hp xx hp elbow > j.mp xx ex air tatsu xx lvl 2 (3802). 
+			g. 5G+LVL3: cr.mp > s.mp~hp drc cr.hp > ex air twister > f.hk~j.mp > lp elbow xx lvl 3 (4818).			
+		
+		3. Heavys
+			a. 0G: s.hp/cr.hp xx hp elbow > j.mp xx hk air tatsu (2159).
+			b. 0G Overhead: b.hk > cr.lp xx ender.
+			c. 0G Corner Carry: s.hk > s.mp~hp xx run mk (1962).
+			d. 1G Damage: s.hp/cr.hp xx hp elbow > dr s.lp~s.mp~cr.hp~s.hk > lp elbow (2450).
+			e. 1G Great Corner Carry: s.hp/cr.hp xx hp elbow > dr s.lp xx run mk (1777).
+			f. 1G+LVL3: s.hp/cr.hp xx hp elbow > dr s.lp~s.mp~cr.hp~s.hk > lb elbow xx lvl 3 (4450). (can lvl 1 if omit lb elbow)			
+			g. 3G: s.hp/cr.hp drc s.hk > cr.hp xx hp elbow > j.mp xx hk air tatsu (2578).
+			h. 5G+LVL2: s.hp/cr.hp drc s.hk > cr.hp xx hp elbow > j.mp xx ex air tatsu xx lvl 2 (3806).
+			i. 4G+LVL3: s.hp/cr.hp drc s.hk > cr.hp xx hp elbow > dr s.lp~s.mp~cr.hp~s.hk > lb elbow xx lvl 3 (4781).
+
+		4. Corner
+			a. 0G: s.hk > s.mp~hp xx run mk > mk tatsu (2610).
+			b. 4G: s.hk > s.mp~hp xx ex run hit~k > run lk > ex tatsu (3015).
+			c. 4G+LVL3: s.hk > s.mp~hp xx ex run hit~k > run lk > lb elbow xx lvl 3 (4799).
+
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.mk > s.hp > ender.
+			b. 1G Overhead: dr b.hk > s.mp > ender.			
+					
+		6. Punish Counter
+			a. 0G DP Whiff: s.hk > s.hp > ender.
+			b. 0G/2G Neutral Whiff: s.hp xx normal/ex smoke > etc. 
+            c. 1G Neutral Whiff: s.hp > dr cr.hp/s.hk > etc.
+		
+		7. Drive Impact		
+			a. 0G Midscreen: any heavy starter, prioritize cr.hp for more damage.
+            
+			b. 0G Wall Splat: cr.hp xx run lk > air twister (2790).
+			c. 3G Wall Splat: cr.hp xx ex run lk > dr cr.hp xx run lk > hk tatsu (3194).
+			d. 3G+LVL3 Wall Splat: cr.hp xx ex run lk > dr cr.hp xx run lk > lb elbow xx lvl 3 (5072).	
+			
+			e. 2G+LVL3 Stun: can > cr.hp xx mp elbow > ex air twister > f.hk~j.mp > lp elbow xx lvl 3 (5069).
+			f. 4G+LVL3 Stun: can > cr.hp xx mp elbow > dr cr.hp xx run lk > dr cr.hp xx ex run lk > dr cr.hp xx run lk > lp elbow xx 
+                lvl 3 (5192).						
+			g. Stun Reset: j.hk > s.hk > s.mp drc s.hk > cr.hp xx di into wall splat. follow up with wall splat route d (7569).
+		
+	C. Oki
+	
+		1. HK Tatsu
+			a. 1G Midscreen: dr s.hp > s.hp xx ender.			
+			b. 0G Corner: b.hk > s.mp > etc.
+		
+		2. MP Elbow
+			a. 1G Midscreen: dash > dr cr.mk > cr.hp xx ender.
+			b. 0G Corner: cr.mp (whiff) > s.hp xx ender.
+			
+		3. Nue Twister
+			a. 1G Midscreen: dr s.hk > s.hk/cr.hp > etc.
+            b. 0G Corner: dash > cr.mp > s.hp xx ender.
+
+		4. HP Elbow > J.MP xx Air HK Tatsu 
+			a. 1G Midscreen: dash > dr s.hk > s.hk/cr.hp > etc.
+            b. 0G Corner: cr.mk (whiff) > s.hk > s.hp xx ender.
+
+		5. MP Elbow Air Juggle (commonly after ex nue > f.hk~j.mp > mp elbow)
+            a. 0G Midscreen: dash > cr.hp > s.mp > etc.
+			a. 0G Corner: cr.mp (whiff) > cr.mp > s.hp xx ender.
+            
+        6. Forward Throw
+            a. 1G Midscreen: dr cr.hp > s.hp xx ender.
+            b. 0G Corner: throw loops? yes, manually timed though. throw > walk > throw.
+
+	D. Miscellaneous		
+		
+		1. DI Corner Side Switch: slight wait > cr.hp run stop > hk tatsu (2259).
+		
+		2. Corner Enders Into Meaty Cans (throw a can after any of these):
+			a. s.lp~mp~hp
+			b. s.mp~hp xx run mk
+			c. j.mp xx ex air tatsu 
+			d. ex run hit~k (this is a safe jump setup/fuzzy opportunity (j.hk > j.lk))
+			e. wall splat > run lk 
+			
+		3. Post Meaty Can Sequences:
+			a. throw
+			b. cr.lk > cr.lp > cr.lp xx lp elbow
+			c. cr.lk > cr.lp > b.hk (overhead)
+			d. back dash > s.mk xx ex run hk
+			e. s.mp~hp xx run ex hk (overhead) or lp elbow if the target combo hits			
+		
+==========================================================================================================================================
+
+XVI. Lily
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp xx any spire, dp, ex dp > ex dive, lvl 1/2.
+		
+		2. Cross Ups: j.2hp, j.lk, j.mk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.mpx2 xx lvl2.
+		
+		4. Best Neutral Attacks: s.lp/hp/lk, cr.hp.
+		
+		5. Risky But Effective Neutral Attacks: s.mp, any spire+.
+		
+		6. Frame Traps
+			a. spire+ (+1) > s.lk > s.lp > etc.
+			b. ex spire+ (+2) > hp spd/s.lk > etc.
+			
+	B. Combos/BnBs (Enders: Spires for corner carry, DP for dmg, Wind for... wind.)
+		
+		1. Lights
+            a. 0G: cr.lk > cr.lp xx hp dp (1430).
+            b. 0G+1W: cr.lk > cr.lp > cr.lp xx mk spire+ (1480).  
+			c. 3G: cr.lk > cr.lp > cr.lp drc s.lp > cr.hp xx ender in misc section. 
+            d. 3G+LVL2: cr.lk > cr.lp > cr.lp drc s.lp > cr.hp xx ex wind xx lvl 2 (3090).
+			e. ALL W+1: cr.lk > cr.lp > cr.lp drc s.lp > cr.hp drc s.lp > cr.hp xx mp wind xx lvl 3 (4428).
+		
+		2. Mediums: (s.mk/cr.mk are dr/special cancellable and cr.mp is super cancellable.)
+            a. 0G: s.mk/cr.mk xx ender in misc section. 
+			b. 3G: cr.mk drc s.lp > cr.hp xx ender in misc section. 
+            c. ALL W+1: s.mk drc s.lp > cr.hp drc s.lp > cr.hp xx mp wind xx lvl 3 (4921).
+		
+		3. Heavys
+			a. 0G/1W: b.hp > s.lk xx hp dp (2260) or mk spire+ (2180). 
+			b. 3G: cr.hp/b.hp drc b.hp > s.mk xx hp dp (2966).
+			c. 3G+LVL1/2: cr.hp/b.hp drc b.hp > cr.mp xx lvl 1/2 (3621/3801~3978).
+			d. 3G+LVL3 W+1:	cr.hp/b.hp drc s.lp > cr.hp xx mp wind xx lvl 3 (4758).	
+			f. 5G: cr.hp/b.hp drc s.lp > cr.hp xx ex wind xx lvl 2 (3861).
+			g. ALL: cr.hp/b.hp drc b.hp > s.mk drc s.lp > cr.hp xx mp wind xx lvl 3 (5602).
+		
+		4. Corner
+			a. 0G+2W: cr.hp/b.hp/s.mk xx hk spire+ > hp dp+ (3180) or lvl 2 (4160).			
+			b. 2G W+1: cr.hp/b.hp xx ex wind > mp dp (3040).
+			c. 2G+2W: cr.hp/b.hp/s.mk xx ex spire+ > hp dp+ (3180) or lvl 1 (3740).			
+		
+		5. Raw Drive Rush
+			a. 1G Overhead: dr df.hp > s.lp xx hp dp (2210).			
+			b. 4G Low: dr cr.mk drc s.lp > cr.hp xx heavy ender.			
+			
+		6. Punish Counter
+			a. 3G+1W Corner DP Whiff: pc s.hp > s.hp drc b.hp xx hk spire+ > lvl 1/2 (4284/4418-4544).
+			b. 3G+3W Corner DP Whiff: pc s.hp > b.hp drc cr.hp(1) xx hk spire+ > mk spire+ > lp dp+ (3781).	
+			c. ALL W+1 DP Whiff: dr b.hp > cr.hp drc b.hp > s.mk drc s.lp > cr.hp xx mp wind xx lvl 3 (6388).
+            
+            d. 1G W+1 Neutral Whiff: s.hp > dr b.hp xx hp wind (2678).
+            e. 3G Neutral Whiff: cr.hp drc b.hp/cr.hp > etc.
+
+		7. Drive Impact
+			a. 0G Midscreen: any heavy starter.			
+			
+			b. 2G W+1 Wall Splat: b.hp xx ex wind > mp dp (3040). 
+			c. 6G+1W Wall Splat: b.hp xx ex wind > ex dp > ex dive (3720).		
+			d. 2G+LVL2 Wall Splat: b.hp xx ex wind > lvl 2 (3840).
+
+			e. ALL W+1 Stun: j.2hp > cr.hp drc b.hp > s.mk drc s.lp > cr.hp xx mp wind xx lvl 3 (5674).
+			f. Stun Reset: di cancel from s.mk into wall splat. follow up with wall splat route d (6742).
+		
+	C. Oki
+	
+		1. HP DP
+			a. 1G Midscreen: dr df.hp > c.mp/s.mk xx ender.
+			b. 0G Corner: dash > b.hp > c.mp/s.mk xx ender.
+		
+		2. MK Spire
+			a. 1G Midscreen: dr df.hp > c.mp/s.mk xx ender.
+			b. ALL Corner: dash > b.hp > cr.hp drc b.hp > s.mk drc s.lp > cr.hp xx m wind xx lvl 3 (6388).
+			
+		3. Forward Throw
+            a. 4G Midscreen: dr s.hp/cr.hp drc b.hp > etc.
+            b. 1G Corner: throw loops? nope. do the above oki or.. dr s.hp/cr.hp > s.lp xx hp dp (2510).
+			
+	D. Miscellaneous		
+		
+		1. DI Corner Side Switch: very slight wait > dr cr.hp drc > crosscut lp dp. (very hard to do)
+		
+		2. Enders Into Super Art Combos
+			a. LVL1: cr.mp/s.mk xx lvl 1.
+			b. LVL2: ex spire/ex wind xx lvl 2. (ex wind if no wind for buffed lvl 2 damage, spire for corner carry otherwise.)
+			c. LVL3: cr.hp/b.hp xx mp wind xx lvl 3.
+            
+        3. Possible Enders For Noteable Ending Normals (Ex Spire combos with all)
+            a. cr.lp/s.lp/s.lk:  hp dp, mk spire+
+            b. s.mk/cr.mk:  hp dp, lk spire, hk spire+
+            c. cr.hp:  hp dp, mk spire, hk spire+, mp/ex wind
+            d. b.hp:  hp dp, mk spire, hk spire+, mp/hp/ex wind
+			
+==========================================================================================================================================
+
+XVII. Luke (non-perfect version)
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, b.hk > lvl 1/2, dp, lvl 1/3 (need to hit deep), lvl 2.
+		
+		2. Cross Ups: j.mk, j.lk (super deceptive).
+		
+		3. Air-To-Airs: j.lp, j.mp > dp or super.
+		
+		4. Best Neutral Attacks: s.lp/mp/hp/lk/mk/hk, cr.lp/mp/hp/lk/mk, ex sand blast.
+		
+		5. Risky But Effective Neutral Attacks: any of his target combos, mp knuckle, sand blast.
+		
+		6. Frame Traps
+			a. cr.mp (+1) > cr.lp (ch) > cr.mp xx ender.
+			b. full charged hp knuckle (+4) > cr.hp xx lp/mp knuckle.			
+			
+	B. Combos (Enders: Tackle for corner carry, HP/EX DP for damage, HP Knuckle for zoning)
+
+		1. Lights
+			a. 0G Low: cr.lk > cr.lp > cr.lp xx lp knuckle (1200).
+			b. 0G: s.lp~mp~hp xx hp knuckle (1640).
+			c. 2G: cr.lk > cr.lp > cr.lp xx ex knuckle > mp knuckle (1810).
+			d. 2G+LVL1/2/3 Low: cr.lk > cr.lp > cr.lp xx ex knuckle (> lvl 1/3 (2470/3670) or xx lvl 2 (2950)).
+			e. 0G+LVL3: cr.lk > cr.lp > cr.lp xx lp knuckle xx lvl 3 (3200).
+			f. 2G+LVL3: s.lp~mp~hp xx ex knuckle > hp knuckle xx lvl 3 (4020).
+			g. ALL: cr.lk > cr.lp > drc cr.lp > cr.hp xx lp c.knuckle > dr s.hp xx ex knuckle > hp knuckle xx lvl 3 (4178).
+
+		2. Mediums
+			a. 0G: cr.mp > cr.lp xx lp knuckle (1460) or hp dp (1540).
+			b. 0G+LVL1/2/3: s.mp~mp xx lvl 1/2/3 (2500/3140/4100). 
+			c. 2G Low: cr.mk xx ex knuckle > mp knuckle (1770).
+			d. 2G: cr.mp > cr.lp xx ex knuckle > mp knuckle (2170). 
+			e. 3G: cr.mp > cr.lp xx ex knuckle xx ddt (2620). 
+			f. 4G: cr.mk drc cr.mp > cr.hp xx lp c.knuckle > dr s.hp xx hp dp (2342).
+			g. 4G+LVL3: cr.mp drc cr.mp > cr.hp xx lp c.knuckle > dr s.hp xx hp knuckle xx lvl 3 (4786).
+			h. ALL: cr.mp drc cr.mp > cr.hp drc b.hk > cr.hp xx lp c.knuckle > mp knuckle xx lvl 3 (5197).
+		
+		3. Heavys
+			a. 0G Corner Carry: f.hp~hp xx hp knuckle (2100).
+			b. 0G Damage: cr.hp xx lp c.knuckle > mp knuckle (2190).
+			c. 1G: cr.hp xx lp c.knuckle > dr s.hp xx hp dp (2644).
+			d. 2G: cr.hp xx lp c.knuckle > ex knuckle > hp knuckle (2720).
+			e. 3G: s.hp drc b.hk > cr.hp xx lp c.knuckle > mp knuckle (3028).
+			f. 4G: s.hp drc b.hk > cr.hp xx lp c.knuckle > dr s.hp xx hp dp (3394).
+			g. ALL: s.hp drc b.hk > cr.hp drc b.hk > cr.hp xx lp c.knuckle > mp knuckle xx lvl 3 (5737).
+
+		4. Corner
+			a. 0G: cr.hp xx lp c.knuckle > lp knuckle > lp dp (2590).
+
+		5. Raw Drive Rush
+			a. 1G Overhead: dr f.mp > cr.mp xx hp dp (2160).			
+
+		6. Punish Counter
+			a. 1G DP Whiff: mp knuckle > cr.hp xx lp c.knuckle > dr s.hp xx hp dp (3412).
+			b. 3G DP Whiff: dr b.hk > dr b.hk > cr.hp xx lp c.knuckle > dr s.hp xx hp dp (3794).
+			c. 3G+LVL2 DP Whiff: dr b.hk > dr b.hk > cr.hp xx lp c.knuckle > dr s.hp xx lvl 2 (4506).			
+			d. ALL DP Whiff: dr b.hk > dr b.hk > cr.hp drc b.hk > cr.hp drc b.hk > cr.hp xx lp c.knuckle > mp knuckle xx lvl 3 (6540).
+            
+			e. 3G Neutral Whiff: f.hp/s.hp drc b.hk > cr.hp xx etc.
+		
+		7. Drive Impact		
+			a. 0G idscreen: use any of the heavy starters.
+			
+			b. 0G Wall Splat: s.hp xx lp c.knuckle > lp knuckle > lp dp (2690).
+            c. 3G Wall Splat: s.hp xx lp c.knuckle > ex dp xx dunk (2920).
+			d. 0G+LVL2 Wall Splat: s.hp xx lp c.knuckle > lp knuckle > lvl 2 (3450).
+			e. 2G+LVL3 Wall Splat: s.hp xx ex knuckle > hp knuckle xx lvl 3 (4600).		
+			
+			f. ALL Stun: j.hk > s.hp drc b.hk > cr.hp drc b.hk > cr.hp xx lp c.knuckle > mp knuckle xx lvl 3 (5576).
+			g. Stun Reset: switch 1st cr.hp for cr.mp, and di cancel from that into wall splat. follow up with wall splat route e (7362).
+		
+	C. Oki
+	
+		1. HP DP/HP Knuckle (during charged lp knuckle combo) & LP Knuckle
+			a. 0G Midscreen: dash > b.hk > cr.hp xx ender.
+			b. 1G Overhead Midscreen: dr f.mp > cr.hp xx ender.
+            c. 0G Corner: hard to beat the 2 above, do one of those.
+		
+		2. EX Tackle ~ Overhead Kick
+            a. 1G Midscreen: dash > dr s.hk > cr.hp xx ender.
+            b. 0G Corner: cr.mp (whiff) > b.hp > cr.hp xx ender.
+        
+        3. Forward Throw
+            a. 1G Midscreen: dr s.hk > cr.hp xx ender.
+            b. 0G Corner: throw loops? yes, manually timed though. throw > walk up > throw.
+						
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: s.lp~mp~hp drc s.lp xx lp dp (2042). (execute fast)			
+		
+==========================================================================================================================================
+
+XVIII. Manon
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hpx2, ex rondo > (light ren or dr cr.mp/b.hp xx m ren), lvl 1/2.
+		
+		2. Cross Ups: j.mk, j.lk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.mp gives juggle state so combo into ren or rondo.
+		
+		4. Best Neutral Attacks: s.lp/mp/lk/mk, cr.lp/mp/lk/mk.
+		
+		5. Risky But Effective Neutral Attacks: s.hp/hk, ren (feint + kick), lk degage.
+			
+	B. Combos (Enders: Ren for medals, Degage for corner carry, MK Rondo for damage.)
+        ** Note: M next to the damage number denotes damage scaled by medals **
+        
+		1. Lights
+			a. 0G: cr.lk > cr.lp > cr.lp xx mk rondo (1410).
+			b. 0G Oki: cr.lk > s.lp xx lk degage (1270).
+			c. 2G: cr.lk > cr.lp > cr.lp xx ex rondo > mk degage (1990).
+			d. 2G+LVL1: cr.lk > cr.lp xx ex rondo > lvl 1 (2510).
+			e. 2G+LVL2: cr.lk > cr.lp xx ex rondo xx lvl 2 (3000).			
+			f. ALL: cr.lk > cr.lp drc st.lp > b.hp drc cr.mp > b.hp xx mp ren xx lvl 3 (3872).
+			
+		2. Mediums
+			a. 0G: cr.mp > s.lp xx lk degage (1700).
+			b. 0G Overhead: b.mk~mk xx mk rondo (1900).
+			c. 0G Reset: b.mk > mp/hp cmd grab depending on range.
+			d. 2G: b.mk~mk/cr.mp xx ex rondo > mk degage (2580).
+			e. 2G+LVL1: b.mk~mk/cr.mp xx ex rondo > lvl 1 (3140).
+			f. 2G+LVL2: b.mk~mk/cr.mp xx ex rondo xx lvl 2 (3630).
+			g. 3G M+1: b.mk~mk/cr.mp drc cr.mp > b.hp xx mp ren (2694M).			
+			h. ALL: b.mk~mk/cr.mp drc cr.mp > b.hp drc cr.mp > b.hp xx mp ren xx lvl 3 (4706).
+		
+		3. Heavys
+            a. 0G: b.hp xx ender. (pretty much anything except hp ren) 
+			b. 3G M+1: b.hp drc cr.mp > b.hp xx mp ren (2680M).			
+            c. ALL: b.hp drc cr.mp > b.hp drc cr.mp > b.hp xx mp ren xx lvl 3 (4708).
+
+		4. Corner
+			a. 4G+LVL1/2: b.hp xx ex rondo > ex rondo > mk degage > lvl 1/2 (4280/4700).			
+
+		5. Raw Drive Rush
+			a. 1G Mix-up: dr cr.mk > cmd grab.	
+					
+		6. Punish Counter
+            a. 0G M+1 DP Whiff: if less than 3 medals, cr.mp > b.hp xx mp ren (2640M). 3+ medals = just raw cmd grab.
+			b. ALL DP Whiff: hk degage > s.mp drc cr.mp > b.hp xx ex degage > s.mp drc cr.mp > b.hp xx mp ren xx lvl 3. (5811)
+			c. 0G Neutral Whiff: s.mp drc cr.mp > etc.
+		
+		7. Drive Impact	
+			a. 0G M+1 Midscreen: cmd grab (2560M) or dash > b.mk~mk xx lp ren (2600M). (do raw cmd grab at 3+ medals)
+			b. 1G M+1 Midscreen: j.hk > dr b.hp xx mp ren (2786M).
+			c. 3G M+1 Midscreen: j.hk > ex rondo > dr b.hp xx mp ren (3156M).						
+			
+			d. 0G M+1 Wall Splat: b.mk~mk xx lp ren (2440M).
+			e. 2G M+1 Wall Splat: b.hp xx ex rondo > mp ren (2840M).
+			f. 2G+LVL2 Wall Splat: b.hp xx ex rondo > mk degage > lvl 2 (4070).
+			g. 3G M+1 Wall Splat: b.hp xx ex rondo > dr b.hp xx hp ren (3038M). 
+			h. ALL Wall Splat: b.hp xx ex rondo > dr b.hp drc b.hp xx hp ren xx lvl 3 (4862). 
+			
+			i. ALL Stun: j.hk > b.hp drc cr.mp > b.hp drc cr.mp > b.hp xx mp ren xx level 3 (5113).
+			j. Stun Reset: di cancel from 2nd b.hp into wall splat. follow up with wall splat route f (6862).
+		
+	C. Oki
+	
+		1. LK Degage
+			a. 1G Midscreen: dr b.hp > (b.hp xx mp ren or b.mk~mk xx mk degage for corner carry/lk degage to loop again) 
+            b. 0G Corner: cr.lp (whiff) > cr.mp > b.hp xx ender.
+		
+		2. Menage Dore CMD Grab or any Renverse
+			a. 1G Midscreen: dr > s.mp > s.hp~hp (2000). +3 after, hp cmd grab or cr.lk combo.
+            b. 0G Corner: pushes you too far, will have to do the same as midscreen.                   
+            
+        3. Forward Throw
+            a. 1G Midscreen: dr > s.mp > s.hp~hp (2000). +3 after, hp cmd grab or cr.lk combo.
+            b. 0G Corner: throw loops? yes, but manually timed. throw > walk > throw.
+						
+	D. Miscellaneous		
+		
+		1. DI Corner Side Switch: nj.hk > df.hk.
+		
+==========================================================================================================================================
+
+XIX. Marisa
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, gladius, any super, light/ex dimach, j.mp~mp.
+		
+		2. Cross Ups: j.lk.
+		
+		3. Air-To-Airs: j.mp~mp.
+		
+		4. Best Neutral Attacks: s.lp~lp, s.mp~mp, s.lk, cr.lp/mp/lk, any gladius, lp/mp phalanx. 
+		
+		5. Risky But Effective Neutral Attacks: hp phalanx, cr.mk. 
+		
+		6. Frame Traps
+			a. fc b.hp/any charged gladius (+4)	> s.mp~mp xx ender OR b.hp (trade) > b.hp xx ender.		
+			b. fc s.hp/f.hk (+3) > s.lp~lp (will combo on ch) xx mp gladius (1930).
+			c. heavy tc (+2) and fc s.hk (+1) > too far to do anything tbh.			
+			
+	B. Combos (Enders: LK/EX Quadriga for corner carry, Gladius for damage, LP Dimach for oki)
+
+		1. Lights (no ex or drc combos from light)
+			a. 0G: cr.lk > cr.lp > cr.lp xx lp dimach (1590).			
+			b. 0G+LVL2: cr.lk > cr.lp > cr.lp xx lvl 2 (2460).
+			c. 0G+LVL3: cr.lk > cr.lp > cr.lp xx lp dimach (1 hit) xx lvl 3 (3230).            
+
+		2. Mediums
+			a. 0G: s.mp~mp xx mp gladius (2420).
+			b. 2G: s.mp~mp xx ex dimach > hp gladius (3000).
+			c. 3G: cr.mp drc s.hp > s.mp~mp xx mp gladius (3094).
+			d. 3G: s.mp~mp xx ex dimach > dr b.hp xx hp phalanx (3156).			
+			e. 2G+LVL1: s.mp~mp xx ex dimach > lvl 1 (3300).
+			f. 2G+LVL2: s.mp~mp xx ex gladius xx lvl 2 (4310).
+			g. 0G+LVL3: s.mp~mp xx mp gladius xx lvl 3 (4820).
+			h. 2G+LVL3: s.mp~mp xx ex dimach > hp gladius xx lvl 3 (5000).
+			i. 3G+LVL3: s.mp~mp drc b.hp > s.mp~mp xx mp gladius xx lvl 3 (5219). 
+			j. ALL: s.mp~mp drc b.hp > s.mp~mp drc b.hp > s.mp~mp xx mp gladius xx lvl 3 (5635).
+		
+		3. Heavys (if fc b.hp isn't available, just start with b.hp)
+			a. 0G: fc b.hp > b.hp xx hp dimach > hp gladius (3760).
+			b. 1G: fc b.hp > b.hp xx hp dimach > dr b.hp xx hp phalanx (3916).
+			c. 2G+LVL2: fc b.hp > b.hp xx ex gladius xx lvl 2 (4910).
+			d. 3G+LVL1: fc b.hp > b.hp drc s.hp > s.mp~mp xx lvl 1 (4223).
+			e. ALL: fc b.hp > b.hp drc s.hp > s.mp~mp drc b.hp > s.mp~mp xx mp gladius xx lvl 3 (6303).
+
+		4. Corner
+			a. 0G: fc b.hp > b.hp xx hp dimach > fc b.hp xx hp gladius (4100).
+			b. 2G: fc b.hp xx ex quadriga > b.hp xx hp gladius (4340).			
+			c. 3G+LVL1: fc b.hp > b.hp xx hp dimach > dr b.hp xx ex phalanx > fc lvl 1 (4684). 			
+			d. 4G+LVL2: fc b.hp xx ex phalanx > hp dimach > fc cr.hp > ex gladius xx lvl 2 (5430).				
+			e. 0G+LVL3: fc b.hp > b.hp xx hp dimach > fc b.hp xx hp gladius xx lvl 3 (6100).					
+
+		5. Raw Drive Rush
+			a. 1G Overhead: dr df.hp > cr.lp > cr.lp > cr.lp xx lp dimach (2310).
+
+		6. Punish Counter		
+			a. 0G DP Whiff: fc s.hp > b.hp xx hp dimach > hp gladius (4110).			
+			b. 2B DP Whiff In Corner: fc s.hp > f.hk xx ex quadriga > b.hp xx hp gladius (5040).
+            
+			c. 3G Neutral Whiff: cr.mp drc s.hp > s.mp~mp xx ender.			
+		
+		7. Drive Impact		
+			a. 0G Midscreen: Any heavy starter listed above.						
+			
+			b. 0G Wall Splat: fc b.hp xx hp gladius (2720). 			
+			c. 2B Wall Splat: f.hk xx ex phalanx > cmd grab (3750) or fc lvl 1 (3950).
+			d. 4B+LVL3 Wall Splat: f.hk xx ex phalanx > fc cr.hp > ex gladius xx lvl 3 (5680). (use mp gladius if going for stun reset)						
+            
+			e. ALL Stun: fc b.hp > b.hp drc s.hp > s.mp~mp drc b.hp xx hp dimach > fc b.hp xx hp gladius xx lvl 3 (5855).
+			f. Stun Reset: di after the s.mp~mp target combo into wall splat. follow up with wall splat route d (8798). 
+		
+	C. Oki
+	
+		1. LP Dimach			
+			a. 1G Midscreen: dr df.hp > cr.lpx3 > lp dimach (2490).
+            b. 0G Corner: cr.mp (whiff) > s.mp~mp (hit-confirm if blocked/hit) xx ender.
+		
+        2. Any Gladius 
+            a. 1G Midscreen: dr fc s.hp > s.hp~hp (3140) (this needs to be close, usually after s.mp~mp)
+            b. 0G Corner: s.lp (whiff) > fc b.hp > b.hp xx ender.
+            
+		3. Cmd Grab
+			a. 1G Midscreen: dr s.mk > b.hp xx ender.	
+            b. 0G Corner: leaves you far, so same as above.
+
+        4. Forward Throw
+            a. 0G Midscreen: couldn't find anything viable, can do dr s.hk for damage i guess. 
+            b. 1G Corner: throw loops? nope. do this instead.. dr s.hp > b.hp xx ender.
+
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: couldn't find anything viable.	
+
+		2. How To Link/Cancel Into Her Supers
+			a. LVL1: after any hp/ex dimach, or from s.mp~mp/b.hp/f.mp~hk
+			b. LVL2: after any ex special, hp dimach, or from s.mp~mp/b.hp/f.mp~hk
+			c. LVL3: after any gladius or quadriga 
+		
+		3. Safe Jump Options
+			a. hp phalanx
+			b. hp dimach > 1 hit of df.hp > j.lk cross-up.
+		
+==========================================================================================================================================
+
+XX. Rashid
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.mp, hp/ex mixer, lvl 1/3, air throw, j.mp xx ex skyhigh ender.
+		
+		2. Cross Ups: j.mk.
+		
+		3. Air-To-Airs: j.lp (fastest), air throw, j.mp xx ex skyhigh ender.
+		
+		4. Best Neutral Attacks: s.lp/mp/hp/lk, cr.lp/mp/mk, f.mp, s.mp~hk, ex shot.
+		
+		5. Risky But Effective Neutral Attacks: s.mk, f.hk, cr.lk, shot.
+		
+		6. Frame Traps
+			a. w lp mixer (+2) or s.mp/cr.mp (+1) > (ch) s.lp > s.mp xx ender.
+			b. corner -- s.hp xx (ch) mp cyclone > s.mp xx mp cyclone > s.lk xx lk spike (3270).
+			c. corner -- s.mp~hk xx (ch) lp cyclone > s.lk xx lk spike (2140).
+			d. corner -- s.hp xx ex shot (-2oB) > lk spike (1665).
+			
+	B. Combos (Enders: MP/EX Mixer + Spike for corner carry, HP Mixer/Cyclone for damage, EX Spike for side switch)
+
+		1. Lights
+			a. 0G Standing: cr.lk > cr.lp > s.lp xx lp mixer (1200).
+			b. 0G Damage: cr.lk > cr.lp xx hp mixer (1430).
+			c. 0G Damage + Corner Carry: cr.lp > cr.lp > s.lk xx lk spike (1580).
+			d. 3G: cr.lk > cr.lp > s.lp drc cr.lp > s.hp/s.mk > ender.			
+			e. 0G+LVL3: cr.lk > s.lp > s.lp xx lvl 3 (3510). (2920 if you cancel from lp mixer, so try not to do it)
+			f. ALL: cr.lk > cr.lp > s.lp drc cr.lp > s.hp drc cr.hp > s.hp xx mp cyclone xx lvl 3 (4170).
+
+		2. Mediums
+			a. 0G Low: cr.mk xx lk spike or any mixer.
+			b. 0G Oki: s.mp~hk xx hp cyclone xx air dash > j.hk (1900).
+			c. 0G: s.mk > s.mp xx mk spike (2240).
+			d. 0G+LVL1: s.mp~hk xx hp cyclone xx air dash > j.mp > lvl 1 (2590).			
+			e. 2G: s.mk > s.mp xx ex cyclone > f.mp xx lk spike (2670).
+			f. 2G Sideswitch: s.mk > s.mp xx ex spike > lk spike (2660).
+			g. 2G/2G+LVL1: s.mk > s.mp~hk xx ex cyclone > dash~kick > mp/hp mixer/lvl 1 (2610/2820/3000). (hp mixer in corner)
+			h. 3G Low: cr.mk drc s.mk > s.hp xx mk spike (2043).
+			i. 3G: s.mk > s.mp drc cr.hp > s.hp xx mk spike (2947).
+			j. ALL: s.mk > s.mp drc cr.hp > s.hp drc cr.hp > s.hp xx mp cyclone xx lvl 3 (5385).
+		
+		3. Heavys
+			a. 0G: s.hp xx mk spike (2100).
+			b. 2G Sideswitch: s.hp xx ex spike > lk spike (2570).
+			c. 2G: s.hp xx ex cyclone > f.mp xx lk spike (2590).
+			d. 3G: s.hp drc cr.hp > s.hp xx mk spike (2876).			
+			e. 2G/4G+LVL2: cr.hp xx lvl 2 > s.hk > ex mixer > ex skyhigh midscreen (3480)/ hk~hk skyhigh corner (3440).
+			f. 3G Sideswitch: s.hp xx ex spike > dr f.mp > f.mp(1) xx mp mixer (2517).
+			g. 5G+LVL1: s.hp drc cr.hp > s.hp xx ex spike > lvl 1 (3455). 			
+			h. ALL: s.hp drc cr.hp > s.hp drc cr.hp > s.hp xx mp cyclone xx lvl 3 (5426).			
+
+		4. Corner
+			a. 0G: s.mp~hk xx hk spike (2050).
+			b. 0G Oki: s.mp~hk xx half charged shot > f.mp xx hp mixer (2410).			
+			c. 0G Close: s.mk > s.mp xx mp cyclone > s.lk xx lk spike (2790).
+			d. 0G Jump-In: j.2hp > j.hk > s.mk > s.mp xx mp cyclone > s.lk xx lk spike (3385).			
+            e. 0G Run: run~punch > s.mp xx mk spike (2440).
+			f. 2G Close: s.mk > s.mp xx mp cyclone > s.lk xx mp mixer > ex mixer (3130).
+			g. 2G: starter xx mp mixer > ex mixer. 	
+			h. 2G+LVL1 Run: run~punch > s.mp xx ex spike > dr f.mp(2) > f.mp xx mp mixer > lvl 1 (3342).			
+			i. 0G+LVL3: s.mk > s.mp xx mp cyclone > s.lk xx lp cyclone xx lvl 3 (4610).
+			j. 4G+LVL3: s.hp xx ex cyclone > ex mixer > mk~mp skyhigh > lvl 3 (5300).
+			k. 5.9G/5.9G+LVL1: s.hp xx ex cyclone > microwalk 1f > ex spinner > ex skyhigh > hp mixer (4080) or mp mixer xx lvl 1 (4600).
+
+		5. Raw Drive Rush
+			a. 1G Overhead: dr f.hp > s.mp~hk xx hp cyclone > air dash > j.hk (2480).			
+
+		6. Punish Counter			
+			a. 0G DP Whiff: cr.hp > s.hp xx mk spike (2630).
+			b. 0G+LVL3 DP Whiff: s.hp xx hp cyclone > rolling kick xx lvl 3 (4840).			
+			c. 0G Neutral Whiff: s.hp/cr.mk drc etc.
+		
+		7. Drive Impact		
+			a. 0G Midscreen: nj.hk > s.hk > f.mp xx lk spike (2890).			
+
+			b. 0G Wall Splat: s.mp > s.hk > lp mixer > hp mixer (2740).
+			c. 2G Wall Splat: s.mp > s.hk > mp mixer > ex mixer (3020).
+			d. 2G+LVL3 Wall Splat: s.hp xx ex cyclone > (w) lp mixer > lvl 3 (4220).			
+			e. 4G+LVL3 Wall Splat: s.hp xx ex cyclone > ex mixer > mk~mp skyhigh > lvl 3 (4880).
+			
+			f. 2G+LVL3 Stun: hk fb hold > ex mixer > mk~mp skyhigh > lvl 3 (5300).
+			g. ALL Stun: j.2hp > j.hk > s.hp drc cr.hp > s.hp drc cr.hp > s.hp xx mp cyclone xx lvl 3 (5603).
+			h. Stun Reset: di from 2nd s.hp into wall splat. follow up with wall splat route d (7390). 
+		
+	C. Oki
+	
+		1. LP Mixer
+			a. 0G Standing: +2, go for throw or (ch) s.lp > s.mp > ender.
+	
+		2. MP/HP Spinner + LK Spike (Air Juggle Spike Included)
+			a. 1G Midscreen: dr f.hp > s.hp/s.mk > ender. +3 on block, go for throw or s.mp (ch) > ender.
+            b. 0G Corner: mp mixer/lk spike -- cr.mp (whiff) > s.mk > s.hp xx ender. hp mixer -- s.mk (whiff) > throw. 
+            c. 1G Corner: ex cyclone > anything.
+		
+		3. MK Spike
+            a. 1G Midscreen: dash > dr f.hp > s.hp/s.mk xx ender.
+			a. 0G Corner Oki: medium fc shot > ex mixer > etc. 
+			
+		4. Level 3
+			a. 1G Anywhere: dr s.mp > s.hp ender. +6 on block, go for throw or s.hp/s.mk > ender. 
+            
+        5. Forward Throw
+            a. 1G Midscreen: dr f.hp > s.hp/s.mk xx ender.
+            b. 0G Corner: throw loops? yes, kinda auto-timed. throw > dash and microwalk a couple frames > throw.
+
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch
+			a. 0G: cartwheel > s.hk > f.mp xx lk spike (2470).
+			b. 2G: s.mk > s.mp xx ex spike > lk spike (2900).
+            c. 2G+LVL1: s.hp xx ex spike > dr f.mp > f.mp(1) xx mp mixer > lvl 1 (3319).
+            d. 2G+LVL2: cartwheel > lvl 2 > s.hk > ex mixer > etc. (you'll want to buffer lvl 2 during cartwheel like.. f+kkk~qcf~qcb+k).
+		
+==========================================================================================================================================
+
+XXI. Ryu
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, dp, lvl 1/3.
+		
+		2. Cross Ups: j.mk, j.lk.
+		
+		3. Air-To-Airs: j.lp (fastest), j.mp(2) xx any air tatsu. EX Air Tatsu allows juggle in corner (any dp, lvl 1, lvl 3). 
+		
+		4. Best Neutral Attacks: s.hp/lk, cr.mk/mp, ex hado. Light hasho decent for fireball feints.
+		
+		5. Risky But Effective Neutral Attacks: f.hp/hk, s.mk, donkey kick, hado. 
+		
+		6. Frame Traps
+			a. f.hp/s.hk (+1) > cr.lp (ch) > cr.mp xx ender.
+			b. ex hasho/charged hasho (+3) > s.mp/cr.mp xx ender. 
+			c. ex charged hasho (+4) > b.hp xx ender..
+			
+	B. Combos (Enders: MK Tatsu for corner carry, HP/EX DP for damage, HK/MK Donkey Kick for denjin charge/zoning)
+
+		1. Lights
+			a. 0G Corner Carry: cr.lk > cr.lp > cr.lp xx mk tatsu (1340).
+			b. 0G/2G Damage: cr.lk > cr.lp > s.lp xx hp/ex dp (1690/1830).
+			c. 3G: cr.lk > cr.lp > s.lp drc s.lp > b.hp xx ender.
+			d. ALL: cr.lk > cr.lp > s.lp drc s.lp > b.hp drc s.hp > b.hp xx hp dp xx lvl 3 (4253).
+
+		2. Mediums
+			a. 0G: s.mp > s.mp/cr.mp xx ender.
+			b. 2G: s.mp > s.mp/cr.mp xx ex donkey kick > ender. (mid-screen only)
+			c. 3G: s.mp > s.mp/cr.mp drc s.hp > b.hp xx ender.		
+			d. ALL: s.mp > s.mp/cr.mp drc s.hp > b.hp drc s.hp > b.hp xx hp dp xx lvl 3 (5436).
+		
+		3. Heavys
+			a. 0G Corner Carry: f.hp > s.mp > s.lk xx mk tatsu (2030).
+			b. 0G Damage: f.hp > s.mp/cr.mp xx hp dp (2260).
+			c. 3G: s.hp drc s.hp > b.hp xx ender.
+			d. 4G+DC: s.hp drc s.hp > b.hp xx denjin hasho > dr s.hp xx hp dp (3836). 
+			e. ALL: s.hp drc s.hp > b.hp drc s.hp > b.hp xx hp dp xx lvl 3 (5492).
+
+		4. Corner
+			a. 0G: b.hp xx hk donkey kick > lp dp (2980).
+			b. 2G/4G: anything xx ex tatsu > dr xx s.mp xx mp hashogeki > hp/ex dp.
+
+		5. Raw Drive Rush
+			a. 1G Low: dr cr.mk > s.lk > mk tatsu (1370) or lk donkey kick (1370). 
+			b. 1G Overhead: dr f.mp > s.mp/cr.mp > ender. (very useful to do this after in any drc combo)
+			c. 4G Low: dr cr.mk xx drc xx s.hp > b.hp xx ender.		
+					
+		6. Punish Counter
+			a. DP Whiff: s.hk > s.hp xx drc/ender/etc.
+			b. Neutral Whiff: s.hp/cr.mk drc etc.
+		
+		7. Drive Impact		
+			a. Midscreen: any heavy starter.
+			b. 3G Midscreen: s.hk > cr.mk drc s.hp > b.hp xx ender.
+			c. 6G Midscreen: s.hk > cr.mk drc s.hp > b.hp drc (s.hk > s.hp xx ender or s.hp > corner combo a, if you end up in corner).
+			
+			d. 0G/2G Wall Splat: s.hp xx mp hashogeki > hp/ex dp (2840/2960).
+			e. 2G+DC+LVL3 Wall Splat: s.hp xx denjin hasho > j.mp xx ex air tatsu > lvl 3 (5170).
+			
+			f. 4G+LVL3 Stun: charge > j.hp > s.hp xx ex tatsu > dr s.mp xx denjin hashogeki > j.mp(2) xx ex air tatsu > lvl 3 (5553).
+			g. ALL Stun: charge > j.hp > s.hp drc s.hk > s.hp drc s.hp > b.hp xx hk donkey > lp dp xx lvl 3 (5576).			
+			h. Stun Reset: di cancel from 2nd s.hp in stun route g and follow up with wall splat route e (7965). 
+		
+	C. Oki
+	
+		1. MK Tatsu			
+			a. 0G Midscreen: dash > s.mp > cr.mk xx ender. 
+			b. 0G/2G Corner: mk donkey kick > mp/ex dp (2520/2920).
+		
+		2. HP DP			
+			a. 0G Midscreen: dash > s.hp > drc > s.hp > b.hp xx ender.
+			b. 0G/2G Corner: hk donkey kick > mp/ex dp (2760/3160).
+			
+		3. Forward Throw
+			a. 1G Midscreen: dr cr.mk > cr.mp xx ender. (if you have health, you can also do... dr s.hp (trade) > s.hp xx ender).
+			b. 0G Corner: throw loops? yes. s.lp/cr.lp (whiff) > throw.
+			
+	D. Miscellaneous
+		
+		1. DI Corner Side Switch: s.hk > cr.mk xx ex donkey kick > dr cr.mk (whiff) > dash (toward corner) > s.mp > cr.hp or throw or w/e.
+		
+		2. Denjin Charge combo ender routes (use ex tatsu over ex donkey if in corner):
+			a. 0G: denjin hasho > mk tatsu (1700) or mk donkey (1900).
+			b. 1G: denjin hasho > dr s.hp xx hp dp (2432).
+			c. 2G: denjin hasho > ex donkey > hp dp (2580).
+			d. 3G: denjin hasho > dr s.hp xx ex donkey > hp dp (2738).
+			e. 5G: denjin hasho > dr s.hp xx ex donkey > j.mpx2 xx ex air tatsu (3010).
+			f. 3G+LVL3: denjin hasho > dr s.hp xx ex donkey > hp dp xx lvl 3 (4738).
+		
+==========================================================================================================================================
+
+XXII. Zangief
+
+	A. Neutral/Footsies
+	
+		1. Anti-Airs: cr.hp, any lariat, j.8hp xx ex air spd (3500). lvl 1 is unreliable, useful for jump aways though.
+		
+		2. Cross Ups: j.lk, j.2hp.
+		
+		3. Air-To-Airs: air spd, j.hp, j.lp (fastest).
+		
+		4. Best Neutral Attacks: s.lp/lk, cr.lp/mp, df.mp, f.hp.
+		
+		5. Risky But Effective Neutral Attacks: s.mp/hp, cr.mk, f.hk, rbg.
+		
+		6. Frame Traps
+			a. s.lp (+2) > lp/mp spd.
+			b. charged s.hp (+3) > cr.lp (ch) > s.lp xx rbg reset/drc ender.
+			c. f.hp (+4) > hp/ex spd/lvl 3 or df.mp xx lariat/lvl 2/drc ender. (start with cr.lp if you want an easier confirm)
+			
+	B. Combos/BnBs (Enders: SPD for damage, Lariat for pressure/oki, Close RBG for side switch)
+		
+		1. Lights
+			a. 0G/2G: cr.lk > cr.lp xx lariat/ex lariat (1480/1720). 			
+			b. 2G+LVL2: cr.lk > cr.lp xx ex lariat(1) xx lvl 2 (3132).
+			c. 3G: cr.lk > cr.lp > cr.lp drc cr.lp > df.mp xx lariat (1849).
+			d. 6G: cr.lk > cr.lp > cr.lp drc cr.lp > df.mp drc cr.mp > df.mp xx lariat (2211).
+			e. 5G+LVL2: cr.lk > cr.lp > cr.lp drc cr.lp > df.mp xx ex lariat(1) xx lvl 2 (3632).
+		
+		2. Mediums 	
+			a. 0G/2G: df.mp/cr.mp xx lariat/ex lariat (2000/2300). 
+			b. 3G/5G: df.mp/cr.mp drc cr.mp > df.mp xx 2p/3p (2647/2824). 
+			c. 2G+LVL2: df.mp/cr.mp xx ex lariat(1) xx lvl 2 (3828).
+			d. 6G: df.mp/cr.mp drc cr.mp > df.mp drc cr.mp > df.mp xx lariat (3264).
+		
+		3. Heavys
+			a. 0G/2G: f.hp xx lariat/ex lariat (2100/2400).			
+			b. 3G/5G: f.hp drc f.hp > df.mp xx 2p/3p (2917/3094).
+			c. 2G+LVL2: f.hp xx ex lariat(1) xx lvl 2 (3928).
+			d. 6G: f.hp drc f.hp > df.mp drc cr.mp > df.mp xx 2p (3534).
+		
+		4. Corner
+			a. 2G+LVL2: f.hp xx lvl 2 > s.hk > ex air spd (4600).
+			b. 4G+LVL2: f.hp xx lvl 2 > long delay df.mp xx 3p > ex air spd (5190). (you want to get 2 hits from ex lariat)
+		
+		5. Raw Drive Rush
+			a. 1G/3G: dr f.mk > df.mp xx 2p/3p (2360/2600). (best to do after lariat in corner)
+			
+		6. Punish Counter
+			a. 0G/2G DP Whiff: normal/ex spd (3795/3910) or f.hp > df.mp xx 2p/3p (2840/3080).
+			b. 0G+LVL1 DP Whiff: s.hk > df.mp xx lvl 1 (4100).
+			c. 2G DP Whiff: s.hk > df.mp > ex air spd (4100).
+			d. 2G+LVL2 DP Whiff: f.hk > df.mp xx lvl 2 > ex air spd (5040).
+			
+			e. 3G Neutral Whiff: s.lk drc cr.mp > df.mp xx 2p/3p (2264/2441).
+			f. 0G+LVL1 Neutral Whiff: f.hk > df.mp xx lvl 1 (4460).			
+		
+		7. Drive Impact
+			a. 0G/2G Midscreen: normal/ex spd (3270/3680) or f.hp xx 2p/3p (2520/2730).
+			b. 0G+LVL1 Midscreen: j.hk > lvl 1 (3350).
+			
+			c. 2G Wall Splat: ex air spd (2900). 	
+			d. 4G Wall Splat: df.mp xx ex lariat > ex air spd (3990).
+			e. 0G+LVL1 Wall Splat: df.mp xx lvl 1 (3190).			
+			f. 2G+LVL2 Wall Splat: df.mp xx lvl 2 > air ex spd (3710).
+
+			g. ALL Stun: raw lvl 3 (4160) or j.2hp > f.hp drc f.hp > df.mp drc cr.mp > df.mp xx 2p (3037) or lvl 2 (4205). 
+			h. Stun Reset: di cancel from 1st df.mp in stun route g and follow up with wall splat route f (6340).
+		
+	C. Oki
+	
+		1. Lariat
+			a. 0G/2G Corner: dash > hp/ex spd or cr.lp > df.mp xx ender.
+			b. 1G Corner: dr f.mk > df.mp xx ender.
+			
+		2. EX Lariat
+			a. 0G Corner: dash > f.hp > df.mp xx ender.
+		
+		3. Down-Forward Throw
+			a. 0G Midscreen: dash > s.mpx3.
+			b. 0G Corner: dash > s.mp > df.mp xx ender.
+			
+	D. Miscellaneous		
+		
+		1. DI Corner Side Switch
+			a. 0G: j.2hp > lariat (2320).
+			b. 2G: j.2hp > air ex spd (3100) or ex lariat (2500).
+			c. 0G+LVL1: j.2hp > (do very fast) lvl 1 (3000).
+			
+		2. Tundra Storm DI Counters: BKA, CMY, CHN, DJ, GUL, JRI, KBY, MNN, RSD.
+		
+		3. Other
+            a. 0G/2G: jump forward and hold j.hk at top of jump arc, do a fake mix-up with spd/ex spd after landing.
+			b. 3G: medium/heavy starter drc cr.mp > df.mp xx rbg. (rbg mix-up)	            
+			
+==========================================================================================================================================
